@@ -1,0 +1,1458 @@
+.anti-money-laundering-system-container1 {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.anti-money-laundering-system-main-content {
+  gap: 10px;
+  width: 100%;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  align-self: center;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-size: cover;
+  background-image: url("/external/desktop%20-%2020-1500w.png");
+}
+.anti-money-laundering-system-frame19268 {
+  gap: 80px;
+  width: 1280px;
+  height: auto;
+  display: flex;
+  z-index: 2;
+  align-self: center;
+  align-items: flex-start;
+  flex-shrink: 0;
+  padding-top: 162px;
+  flex-direction: column;
+  padding-bottom: 120px;
+}
+.anti-money-laundering-system-frame19309 {
+  gap: 24px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.anti-money-laundering-system-frame19229 {
+  gap: 12px;
+  display: flex;
+  align-items: center;
+}
+.anti-money-laundering-system-arrowleft {
+  width: 24px;
+  height: 24px;
+}
+.anti-money-laundering-system-text10 {
+  color: var(--dl-color-orange-800main);
+  height: auto;
+  text-align: left;
+  line-height: 27px;
+}
+.anti-money-laundering-system-frame19260 {
+  gap: 24px;
+  width: 730px;
+  height: 300px;
+  display: flex;
+  padding: 32px 32px 48px;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: var(--dl-color-orange-800main);
+}
+.anti-money-laundering-system-frame19285 {
+  gap: 24px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.anti-money-laundering-system-text12 {
+  color: var(--dl-color-white-white);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.anti-money-laundering-system-moneychange {
+  width: 52px;
+  height: 52px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.anti-money-laundering-system-vuesaxlinearmoneychange {
+  top: 0px;
+  left: 0px;
+  width: 52px;
+  height: 52px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.anti-money-laundering-system-vector10 {
+  top: 8.666666984558105px;
+  left: 4.333333492279053px;
+  width: 43px;
+  height: 35px;
+  position: absolute;
+}
+.anti-money-laundering-system-vector11 {
+  top: 20.58333396911621px;
+  left: 20.58333396911621px;
+  width: 11px;
+  height: 11px;
+  position: absolute;
+}
+.anti-money-laundering-system-vector12 {
+  top: 20.58333396911621px;
+  left: 40.08333206176758px;
+  width: 0px;
+  height: 11px;
+  position: absolute;
+}
+.anti-money-laundering-system-group1 {
+  top: 30.9400634765625px;
+  left: 4.333333492279053px;
+  width: 14.085977554321289px;
+  height: 16.727264404296875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.anti-money-laundering-system-vector13 {
+  top: 2.643268585205078px;
+  left: 0px;
+  width: 14px;
+  height: 5px;
+  position: absolute;
+}
+.anti-money-laundering-system-vector14 {
+  top: 0px;
+  left: 0px;
+  width: 3px;
+  height: 5px;
+  position: absolute;
+}
+.anti-money-laundering-system-vector15 {
+  top: 8.796661376953125px;
+  left: 0px;
+  width: 14px;
+  height: 5px;
+  position: absolute;
+}
+.anti-money-laundering-system-vector16 {
+  top: 11.440593719482422px;
+  left: 11.442708969116211px;
+  width: 3px;
+  height: 5px;
+  position: absolute;
+}
+.anti-money-laundering-system-text14 {
+  color: var(--dl-color-white-white);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: normal;
+}
+.anti-money-laundering-system-frame19286 {
+  gap: 10px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.anti-money-laundering-system-text16 {
+  color: var(--dl-color-neutral-500sub);
+  width: 800px;
+  height: auto;
+  text-align: left;
+  line-height: 27px;
+}
+.anti-money-laundering-system-key-components {
+  gap: 20px;
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-color: var(--dl-color-neutral-900main);
+}
+.anti-money-laundering-system-frame19290 {
+  gap: 64px;
+  width: 1280px;
+  display: flex;
+  padding: 100px 0 160px;
+  align-self: center;
+  align-items: center;
+  flex-direction: column;
+}
+.anti-money-laundering-system-text18 {
+  color: var(--dl-color-orange-800main);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: normal;
+}
+.anti-money-laundering-system-frame19291 {
+  gap: 40px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.anti-money-laundering-system-frame192381 {
+  gap: 40px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.anti-money-laundering-system-frame61 {
+  gap: 40px;
+  display: flex;
+  padding: 32px 24px;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: var(--dl-color-neutral-800);
+}
+.anti-money-laundering-system-dangertriangle {
+  width: 44px;
+  height: 44px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.anti-money-laundering-system-vuesaxlineardanger {
+  top: 0px;
+  left: 0px;
+  width: 44px;
+  height: 44px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.anti-money-laundering-system-danger {
+  top: 0px;
+  left: 0px;
+  width: 44px;
+  height: 44px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.anti-money-laundering-system-vector17 {
+  top: 16.5px;
+  left: 22px;
+  width: 0px;
+  height: 9px;
+  position: absolute;
+}
+.anti-money-laundering-system-vector18 {
+  top: 4.7529168128967285px;
+  left: 3.667685031890869px;
+  width: 37px;
+  height: 35px;
+  position: absolute;
+}
+.anti-money-laundering-system-vector19 {
+  top: 31.16666603088379px;
+  left: 21.98992919921875px;
+  width: 0px;
+  height: 2px;
+  position: absolute;
+}
+.anti-money-laundering-system-frame781 {
+  gap: 10px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.anti-money-laundering-system-text20 {
+  color: var(--dl-color-white-white);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: normal;
+}
+.anti-money-laundering-system-text22 {
+  color: var(--dl-color-neutral-200);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 24px;
+}
+.anti-money-laundering-system-frame621 {
+  gap: 40px;
+  display: flex;
+  padding: 32px 24px;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: var(--dl-color-neutral-800);
+}
+.anti-money-laundering-system-cardgroup {
+  width: 44px;
+  height: 44px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.anti-money-laundering-system-vuesaxlineargroup {
+  top: 0px;
+  left: 0px;
+  width: 44px;
+  height: 44px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.anti-money-laundering-system-vector20 {
+  top: 10.19333553314209px;
+  left: 22px;
+  width: 18px;
+  height: 1px;
+  position: absolute;
+}
+.anti-money-laundering-system-vector21 {
+  top: 3.6666667461395264px;
+  left: 22px;
+  width: 18px;
+  height: 16px;
+  position: absolute;
+}
+.anti-money-laundering-system-vector22 {
+  top: 31.276668548583984px;
+  left: 3.6666667461395264px;
+  width: 18px;
+  height: 1px;
+  position: absolute;
+}
+.anti-money-laundering-system-vector23 {
+  top: 24.75px;
+  left: 3.6666667461395264px;
+  width: 18px;
+  height: 16px;
+  position: absolute;
+}
+.anti-money-laundering-system-group2 {
+  top: 3.6666667461395264px;
+  left: 3.6666667461395264px;
+  width: 36.666664123535156px;
+  height: 36.666664123535156px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.anti-money-laundering-system-vector24 {
+  top: 23.83333396911621px;
+  left: 23.83333396911621px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+}
+.anti-money-laundering-system-vector25 {
+  top: 0px;
+  left: 0px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+}
+.anti-money-laundering-system-frame782 {
+  gap: 10px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.anti-money-laundering-system-text24 {
+  color: var(--dl-color-white-white);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: normal;
+}
+.anti-money-laundering-system-text26 {
+  color: var(--dl-color-neutral-200);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 24px;
+}
+.anti-money-laundering-system-frame631 {
+  gap: 40px;
+  display: flex;
+  padding: 32px 24px;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: var(--dl-color-neutral-800);
+}
+.anti-money-laundering-system-tasksquare1 {
+  width: 44px;
+  height: 44px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.anti-money-laundering-system-vuesaxlineartasksquare {
+  top: 0px;
+  left: 0px;
+  width: 44px;
+  height: 44px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.anti-money-laundering-system-tasksquare2 {
+  top: 0px;
+  left: 0px;
+  width: 44px;
+  height: 44px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.anti-money-laundering-system-vector26 {
+  top: 16.280000686645508px;
+  left: 22.678333282470703px;
+  width: 10px;
+  height: 1px;
+  position: absolute;
+}
+.anti-money-laundering-system-vector27 {
+  top: 13.530000686645508px;
+  left: 11.696666717529297px;
+  width: 5px;
+  height: 4px;
+  position: absolute;
+}
+.anti-money-laundering-system-vector28 {
+  top: 29.113332748413086px;
+  left: 22.678333282470703px;
+  width: 10px;
+  height: 1px;
+  position: absolute;
+}
+.anti-money-laundering-system-vector29 {
+  top: 26.363332748413086px;
+  left: 11.696666717529297px;
+  width: 5px;
+  height: 4px;
+  position: absolute;
+}
+.anti-money-laundering-system-vector30 {
+  top: 3.6666667461395264px;
+  left: 3.6666667461395264px;
+  width: 37px;
+  height: 37px;
+  position: absolute;
+}
+.anti-money-laundering-system-frame783 {
+  gap: 10px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.anti-money-laundering-system-text28 {
+  color: var(--dl-color-white-white);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: normal;
+}
+.anti-money-laundering-system-text30 {
+  color: var(--dl-color-neutral-200);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 24px;
+}
+.anti-money-laundering-system-frame19239 {
+  gap: 40px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.anti-money-laundering-system-frame622 {
+  gap: 40px;
+  display: flex;
+  padding: 32px 24px;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: var(--dl-color-neutral-800);
+}
+.anti-money-laundering-system-usertick {
+  width: 44px;
+  height: 44px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.anti-money-laundering-system-vuesaxlinearprofiletick {
+  top: 0px;
+  left: 0px;
+  width: 44px;
+  height: 44px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.anti-money-laundering-system-profiletick {
+  top: 0px;
+  left: 0px;
+  width: 44px;
+  height: 44px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.anti-money-laundering-system-vector31 {
+  top: 32.138336181640625px;
+  left: 26.47333335876465px;
+  width: 8px;
+  height: 6px;
+  position: absolute;
+}
+.anti-money-laundering-system-vector32 {
+  top: 3.6666667461395264px;
+  left: 13.859930992126465px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+}
+.anti-money-laundering-system-vector33 {
+  top: 24.163333892822266px;
+  left: 9.46916675567627px;
+  width: 22px;
+  height: 16px;
+  position: absolute;
+}
+.anti-money-laundering-system-frame784 {
+  gap: 10px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.anti-money-laundering-system-text32 {
+  color: var(--dl-color-white-white);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: normal;
+}
+.anti-money-laundering-system-text34 {
+  color: var(--dl-color-neutral-200);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 24px;
+}
+.anti-money-laundering-system-frame632 {
+  gap: 40px;
+  display: flex;
+  padding: 32px 24px;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: var(--dl-color-neutral-800);
+}
+.anti-money-laundering-system-book1 {
+  width: 44px;
+  height: 44px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.anti-money-laundering-system-vuesaxlinearbook {
+  top: 0px;
+  left: 0px;
+  width: 44px;
+  height: 44px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.anti-money-laundering-system-book2 {
+  top: 0px;
+  left: 0px;
+  width: 44px;
+  height: 44px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.anti-money-laundering-system-vector34 {
+  top: 4.881083011627197px;
+  left: 3.6666667461395264px;
+  width: 37px;
+  height: 34px;
+  position: absolute;
+}
+.anti-money-laundering-system-vector35 {
+  top: 10.0649995803833px;
+  left: 22px;
+  width: 0px;
+  height: 27px;
+  position: absolute;
+}
+.anti-money-laundering-system-vector36 {
+  top: 15.5649995803833px;
+  left: 10.083333015441895px;
+  width: 4px;
+  height: 1px;
+  position: absolute;
+}
+.anti-money-laundering-system-vector37 {
+  top: 21.064998626708984px;
+  left: 10.083333015441895px;
+  width: 5px;
+  height: 1px;
+  position: absolute;
+}
+.anti-money-laundering-system-frame785 {
+  gap: 10px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.anti-money-laundering-system-text36 {
+  color: var(--dl-color-white-white);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: normal;
+}
+.anti-money-laundering-system-text38 {
+  color: var(--dl-color-neutral-200);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 24px;
+}
+.anti-money-laundering-system-conclusion {
+  gap: 20px;
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-size: cover;
+  background-image: url("/external/conclustion%20bg-1500w.png");
+}
+.anti-money-laundering-system-frame192382 {
+  gap: 40px;
+  width: 1280px;
+  height: auto;
+  display: flex;
+  padding: 120px 0;
+  z-index: 1;
+  align-self: center;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.anti-money-laundering-system-frame19240 {
+  gap: 24px;
+  width: 800px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.anti-money-laundering-system-text40 {
+  color: var(--dl-color-blue-700main);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: normal;
+}
+.anti-money-laundering-system-text42 {
+  color: var(--dl-color-neutral-500sub);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 27px;
+}
+.anti-money-laundering-system-footer {
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #EE7127;
+}
+.anti-money-laundering-system-frame105 {
+  gap: 0px;
+  display: flex;
+  align-self: center;
+  align-items: center;
+  border-color: rgba(255, 255, 255, 0.20000000298023224);
+  border-style: solid;
+  border-width: 1px 0 0;
+  flex-direction: column;
+  justify-content: center;
+  background-color: var(--dl-color-orange-800main);
+}
+.anti-money-laundering-system-frame1041 {
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.anti-money-laundering-system-frame1061 {
+  gap: 40px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.anti-money-laundering-system-frame111 {
+  gap: 100px;
+  width: 398px;
+  display: flex;
+  padding: 40px 0;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+}
+.anti-money-laundering-system-primarylogoasaplainbackground2 {
+  width: 52px;
+  height: 52px;
+}
+.anti-money-laundering-system-frame109 {
+  gap: 12px;
+  width: 246px;
+  display: flex;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.anti-money-laundering-system-text44 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.anti-money-laundering-system-text46 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.anti-money-laundering-system-text48 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.anti-money-laundering-system-text50 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.anti-money-laundering-system-text52 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.anti-money-laundering-system-container2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.anti-money-laundering-system-rectangle11 {
+  width: 1px;
+  height: auto;
+  align-self: stretch;
+}
+.anti-money-laundering-system-frame110 {
+  gap: 12px;
+  width: 360px;
+  height: 376px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  padding-top: 24px;
+  padding-left: 24px;
+  padding-right: 24px;
+  flex-direction: column;
+  padding-bottom: 24px;
+}
+.anti-money-laundering-system-text54 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.anti-money-laundering-system-frame116 {
+  gap: 24px;
+  width: 100%;
+  height: 263px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.anti-money-laundering-system-frame1141 {
+  gap: 10px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.anti-money-laundering-system-text56 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.anti-money-laundering-system-text58 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 14px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.anti-money-laundering-system-frame1171 {
+  gap: 6px;
+  display: flex;
+  align-items: center;
+}
+.anti-money-laundering-system-vuesaxlinearcall1 {
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.anti-money-laundering-system-vuesaxlinearcall2 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.anti-money-laundering-system-call1 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.anti-money-laundering-system-call2 {
+  top: 1.3333333730697632px;
+  left: 1.3333333730697632px;
+  width: 13.313333511352539px;
+  height: 13.333333969116211px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.anti-money-laundering-system-vector38 {
+  top: 0px;
+  left: 0px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+}
+.anti-money-laundering-system-text59 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.anti-money-laundering-system-rectangle13 {
+  width: auto;
+  height: 1px;
+  align-self: stretch;
+}
+.anti-money-laundering-system-frame115 {
+  gap: 10px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.anti-money-laundering-system-text61 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.anti-money-laundering-system-text63 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 14px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.anti-money-laundering-system-frame1172 {
+  gap: 6px;
+  display: flex;
+  align-items: center;
+}
+.anti-money-laundering-system-vuesaxlinearcall3 {
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.anti-money-laundering-system-vuesaxlinearcall4 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.anti-money-laundering-system-call3 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.anti-money-laundering-system-call4 {
+  top: 1.3333333730697632px;
+  left: 1.3333333730697632px;
+  width: 13.313333511352539px;
+  height: 13.333333969116211px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.anti-money-laundering-system-vector39 {
+  top: 0px;
+  left: 0px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+}
+.anti-money-laundering-system-text65 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.anti-money-laundering-system-rectangle12 {
+  width: 1px;
+  height: auto;
+  align-self: stretch;
+}
+.anti-money-laundering-system-frame113 {
+  gap: 12px;
+  width: 360px;
+  height: 376px;
+  display: flex;
+  padding: 40px 0;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.anti-money-laundering-system-text67 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.anti-money-laundering-system-frame1142 {
+  gap: 24px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.anti-money-laundering-system-text69 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: normal;
+}
+.anti-money-laundering-system-button {
+  gap: 8px;
+  display: flex;
+  padding: 10px 24px;
+  align-items: flex-end;
+  background-color: var(--dl-color-neutral-900main);
+}
+.anti-money-laundering-system-text71 {
+  color: var(--dl-color-white-white);
+  height: auto;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.anti-money-laundering-system-frame1062 {
+  gap: 10px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  border-color: rgba(255, 255, 255, 0.20000000298023224);
+  border-style: solid;
+  border-width: 1px 0 0;
+  flex-direction: column;
+  background-color: var(--dl-color-orange-800main);
+}
+.anti-money-laundering-system-frame1042 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.anti-money-laundering-system-frame108 {
+  width: 1280px;
+  display: flex;
+  padding: 20px 0;
+  align-self: center;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.anti-money-laundering-system-text73 {
+  color: var(--dl-color-white-white);
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.anti-money-laundering-system-frame107 {
+  gap: 16px;
+  display: flex;
+  align-items: flex-start;
+}
+.anti-money-laundering-system-uillinkedinalt {
+  width: 20px;
+  height: 20px;
+}
+.anti-money-laundering-system-facebook {
+  width: 20px;
+  height: 20px;
+}
+.anti-money-laundering-system-instagram {
+  width: 20px;
+  height: 20px;
+}
+.anti-money-laundering-system-rectangle7424 {
+  top: 0px;
+  right: -2px;
+  width: 100%;
+  height: 460px;
+  position: absolute;
+}
+.anti-money-laundering-system-navbar {
+  width: 100%;
+  height: 88px;
+  display: flex;
+  z-index: 100;
+  position: fixed;
+  box-shadow: 0px 6px 20px 0px rgba(0, 0, 0, 0.1);
+  justify-content: center;
+  background-color: white;
+}
+.anti-money-laundering-system-navbar-interactive {
+  width: 100%;
+  display: flex;
+  max-width: var(--dl-size-size-maxwidth);
+  align-items: center;
+  padding-top: var(--dl-space-space-twounits);
+  padding-left: var(--dl-space-space-threeunits);
+  padding-right: var(--dl-space-space-threeunits);
+  padding-bottom: var(--dl-space-space-twounits);
+  justify-content: space-between;
+}
+.anti-money-laundering-system-image1 {
+  height: 3rem;
+}
+.anti-money-laundering-system-desktop-menu {
+  flex: 1;
+  display: flex;
+  justify-content: space-between;
+}
+.anti-money-laundering-system-links1 {
+  gap: var(--dl-space-space-twounits);
+  flex: 1;
+  display: flex;
+  align-items: center;
+  margin-left: var(--dl-space-space-twounits);
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.anti-money-laundering-system-link11 {
+  text-decoration: none;
+}
+.anti-money-laundering-system-burger-menu {
+  display: none;
+}
+.anti-money-laundering-system-icon1 {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+}
+.anti-money-laundering-system-mobile-menu {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100vh;
+  display: none;
+  padding: var(--dl-space-space-twounits);
+  z-index: 100;
+  position: absolute;
+  flex-direction: column;
+  background-color: var(--dl-color-theme-neutral-light);
+}
+.anti-money-laundering-system-nav {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.anti-money-laundering-system-top {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  margin-bottom: var(--dl-space-space-threeunits);
+  justify-content: space-between;
+}
+.anti-money-laundering-system-logo {
+  height: 3rem;
+}
+.anti-money-laundering-system-close-menu {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.anti-money-laundering-system-icon3 {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+}
+.anti-money-laundering-system-links2 {
+  gap: var(--dl-space-space-unit);
+  flex: 0 0 auto;
+  display: flex;
+  align-self: flex-start;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.anti-money-laundering-system-buttons {
+  gap: var(--dl-space-space-twounits);
+  display: flex;
+  margin-top: var(--dl-space-space-twounits);
+  align-items: center;
+}
+@media(max-width: 1274px) {
+  .anti-money-laundering-system-frame19268 {
+    width: 768px;
+  }
+  .anti-money-laundering-system-frame19290 {
+    width: 768px;
+  }
+  .anti-money-laundering-system-frame192382 {
+    width: 768px;
+    align-self: center;
+  }
+  .anti-money-laundering-system-frame105 {
+    width: 769px;
+    height: 100%;
+    align-self: center;
+    align-items: center;
+    justify-content: center;
+  }
+  .anti-money-laundering-system-frame1041 {
+    width: 769px;
+    align-self: center;
+    justify-content: center;
+  }
+  .anti-money-laundering-system-frame1061 {
+    gap: 16px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+  }
+  .anti-money-laundering-system-frame111 {
+    gap: 24px;
+    width: auto;
+    align-self: flex-start;
+    padding-top: 24px;
+    padding-left: 16px;
+    padding-bottom: 24px;
+  }
+  .anti-money-laundering-system-frame109 {
+    width: auto;
+    margin-right: 0px;
+  }
+  .anti-money-laundering-system-frame110 {
+    width: 277px;
+    height: 419px;
+    padding: 24px;
+  }
+  .anti-money-laundering-system-frame113 {
+    width: 218px;
+    padding-top: 24px;
+    padding-bottom: 24px;
+  }
+  .anti-money-laundering-system-frame1142 {
+    width: 100%;
+  }
+  .anti-money-laundering-system-text69 {
+    width: 100%;
+    font-size: 24px;
+  }
+  .anti-money-laundering-system-frame1062 {
+    width: 768px;
+    align-self: center;
+  }
+  .anti-money-laundering-system-frame108 {
+    width: 100%;
+    align-self: center;
+  }
+}
+@media(max-width: 768px) {
+  .anti-money-laundering-system-frame19268 {
+    gap: 40px;
+    width: 390px;
+    padding-top: 120px;
+    padding-bottom: 80px;
+  }
+  .anti-money-laundering-system-frame19260 {
+    width: 100%;
+  }
+  .anti-money-laundering-system-frame19290 {
+    width: 390px;
+  }
+  .anti-money-laundering-system-frame192381 {
+    flex-direction: column;
+  }
+  .anti-money-laundering-system-frame19239 {
+    flex-direction: column;
+  }
+  .anti-money-laundering-system-frame192382 {
+    width: 390px;
+    align-self: center;
+  }
+  .anti-money-laundering-system-frame1061 {
+    gap: 16px;
+    width: 545px;
+    flex-direction: column;
+  }
+  .anti-money-laundering-system-frame111 {
+    width: 363px;
+    align-self: center;
+    margin-right: 0px;
+  }
+  .anti-money-laundering-system-text58 {
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: 21px;
+    text-decoration: none;
+  }
+  .anti-money-laundering-system-frame113 {
+    height: auto;
+    align-self: center;
+  }
+  .anti-money-laundering-system-frame1062 {
+    width: 100%;
+    height: 97px;
+  }
+  .anti-money-laundering-system-frame1042 {
+    width: 390px;
+    align-self: center;
+  }
+  .anti-money-laundering-system-frame108 {
+    gap: 24px;
+    height: 100%;
+    justify-content: center;
+  }
+  .anti-money-laundering-system-text73 {
+    color: var(--dl-color-white-white);
+    font-size: 14px;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: 21px;
+    text-decoration: none;
+  }
+  .anti-money-laundering-system-desktop-menu {
+    display: none;
+  }
+  .anti-money-laundering-system-burger-menu {
+    display: flex;
+  }
+}
+@media(max-width: 767px) {
+  .anti-money-laundering-system-navbar-interactive {
+    padding-left: var(--dl-space-space-twounits);
+    padding-right: var(--dl-space-space-twounits);
+  }
+  .anti-money-laundering-system-desktop-menu {
+    display: none;
+  }
+  .anti-money-laundering-system-burger-menu {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
+@media(max-width: 479px) {
+  .anti-money-laundering-system-navbar-interactive {
+    padding: var(--dl-space-space-unit);
+  }
+  .anti-money-laundering-system-mobile-menu {
+    padding: var(--dl-space-space-unit);
+  }
+}

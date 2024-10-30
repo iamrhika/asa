@@ -1,0 +1,2152 @@
+.ai-dash-camera-container1 {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.ai-dash-camera-main-content {
+  gap: 10px;
+  width: 100%;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  align-self: center;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-size: cover;
+  background-image: url("/external/desktop%20-%2020-1500w.png");
+}
+.ai-dash-camera-frame19272 {
+  gap: 10px;
+  width: 1280px;
+  display: flex;
+  position: relative;
+  align-self: center;
+  align-items: center;
+  flex-shrink: 0;
+  padding-top: 162px;
+  padding-left: 0px;
+  padding-right: 0px;
+  flex-direction: column;
+  padding-bottom: 120px;
+}
+.ai-dash-camera-frame19268 {
+  gap: 80px;
+  width: 100%;
+  height: auto;
+  display: flex;
+  z-index: 2;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.ai-dash-camera-frame19304 {
+  gap: 24px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.ai-dash-camera-navlink {
+  display: contents;
+}
+.ai-dash-camera-frame19229 {
+  gap: 12px;
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+}
+.ai-dash-camera-arrowleft {
+  width: 24px;
+  height: 24px;
+}
+.ai-dash-camera-text10 {
+  color: var(--dl-color-orange-800main);
+  height: auto;
+  text-align: left;
+  line-height: 27px;
+}
+.ai-dash-camera-frame19260 {
+  gap: 24px;
+  width: 730px;
+  height: 300px;
+  display: flex;
+  padding: 32px 32px 48px;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: var(--dl-color-orange-800main);
+}
+.ai-dash-camera-frame19285 {
+  gap: 24px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.ai-dash-camera-text12 {
+  color: var(--dl-color-white-white);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.ai-dash-camera-video1 {
+  width: 52px;
+  height: 52px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.ai-dash-camera-vuesaxlinearvideo1 {
+  top: 0px;
+  left: 0px;
+  width: 52px;
+  height: 52px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.ai-dash-camera-video2 {
+  top: 0px;
+  left: 0px;
+  width: 52px;
+  height: 52px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.ai-dash-camera-vector10 {
+  top: 7.756666660308838px;
+  left: 4.333333492279053px;
+  width: 32px;
+  height: 36px;
+  position: absolute;
+}
+.ai-dash-camera-vector11 {
+  top: 13.939167976379395px;
+  left: 36.27000045776367px;
+  width: 11px;
+  height: 24px;
+  position: absolute;
+}
+.ai-dash-camera-vector12 {
+  top: 17.33333396911621px;
+  left: 21.66666603088379px;
+  width: 6px;
+  height: 6px;
+  position: absolute;
+}
+.ai-dash-camera-text14 {
+  color: var(--dl-color-white-white);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: normal;
+}
+.ai-dash-camera-frame19287 {
+  gap: 10px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.ai-dash-camera-text16 {
+  color: var(--dl-color-neutral-500sub);
+  width: 800px;
+  height: auto;
+  text-align: left;
+  line-height: 27px;
+}
+.ai-dash-camera-key-features {
+  gap: 20px;
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-color: var(--dl-color-neutral-100);
+}
+.ai-dash-camera-frame192901 {
+  gap: 64px;
+  display: flex;
+  padding: 100px 0 160px;
+  align-self: center;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.ai-dash-camera-text18 {
+  color: var(--dl-color-orange-800main);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: normal;
+}
+.ai-dash-camera-frame19292 {
+  gap: 40px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.ai-dash-camera-frame611 {
+  gap: 40px;
+  display: flex;
+  padding: 32px 24px;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: var(--dl-color-white-white);
+}
+.ai-dash-camera-userscan {
+  width: 44px;
+  height: 44px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.ai-dash-camera-vuesaxlinear3dcubescan {
+  top: 0px;
+  left: 0px;
+  width: 44px;
+  height: 44px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.ai-dash-camera-frame3dcubescan {
+  top: 0px;
+  left: 0px;
+  width: 44px;
+  height: 44px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.ai-dash-camera-vector13 {
+  top: 3.6666667461395264px;
+  left: 3.6666667461395264px;
+  width: 37px;
+  height: 13px;
+  position: absolute;
+}
+.ai-dash-camera-vector14 {
+  top: 27.5px;
+  left: 3.6666667461395264px;
+  width: 37px;
+  height: 13px;
+  position: absolute;
+}
+.ai-dash-camera-group1 {
+  top: 11.623382568359375px;
+  left: 14.666666984558105px;
+  width: 14.666666984558105px;
+  height: 18.91990089416504px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.ai-dash-camera-vector15 {
+  top: 0px;
+  left: 3.0616655349731445px;
+  width: 9px;
+  height: 9px;
+  position: absolute;
+}
+.ai-dash-camera-vector16 {
+  top: 12.943328857421875px;
+  left: 0px;
+  width: 15px;
+  height: 6px;
+  position: absolute;
+}
+.ai-dash-camera-text20 {
+  color: var(--dl-color-neutral-900main);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: normal;
+}
+.ai-dash-camera-frame631 {
+  gap: 40px;
+  display: flex;
+  padding: 32px 24px;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: var(--dl-color-white-white);
+}
+.ai-dash-camera-graph1 {
+  width: 44px;
+  height: 44px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.ai-dash-camera-vuesaxlineargraph1 {
+  top: 0px;
+  left: 0px;
+  width: 44px;
+  height: 44px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.ai-dash-camera-graph2 {
+  top: 0px;
+  left: 0px;
+  width: 44px;
+  height: 44px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.ai-dash-camera-vector17 {
+  top: 4.792476654052734px;
+  left: 22px;
+  width: 17px;
+  height: 17px;
+  position: absolute;
+}
+.ai-dash-camera-vector18 {
+  top: 7.3516669273376465px;
+  left: 3.664108991622925px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+}
+.ai-dash-camera-text22 {
+  color: var(--dl-color-neutral-900main);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: normal;
+}
+.ai-dash-camera-frame641 {
+  gap: 40px;
+  display: flex;
+  padding: 32px 24px;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: var(--dl-color-white-white);
+}
+.ai-dash-camera-cpu1 {
+  width: 44px;
+  height: 44px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.ai-dash-camera-vuesaxlinearcpu {
+  top: 0px;
+  left: 0px;
+  width: 44px;
+  height: 44px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.ai-dash-camera-cpu2 {
+  top: 0px;
+  left: 0px;
+  width: 44px;
+  height: 44px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.ai-dash-camera-vector19 {
+  top: 7.333333492279053px;
+  left: 7.333333492279053px;
+  width: 29px;
+  height: 29px;
+  position: absolute;
+}
+.ai-dash-camera-vector20 {
+  top: 12.833333015441895px;
+  left: 12.833333015441895px;
+  width: 18px;
+  height: 18px;
+  position: absolute;
+}
+.ai-dash-camera-vector21 {
+  top: 3.6666667461395264px;
+  left: 14.6850004196167px;
+  width: 0px;
+  height: 4px;
+  position: absolute;
+}
+.ai-dash-camera-vector22 {
+  top: 3.6666667461395264px;
+  left: 22px;
+  width: 0px;
+  height: 4px;
+  position: absolute;
+}
+.ai-dash-camera-vector23 {
+  top: 3.6666667461395264px;
+  left: 29.33333396911621px;
+  width: 0px;
+  height: 4px;
+  position: absolute;
+}
+.ai-dash-camera-vector24 {
+  top: 14.666666984558105px;
+  left: 36.66666793823242px;
+  width: 4px;
+  height: 1px;
+  position: absolute;
+}
+.ai-dash-camera-vector25 {
+  top: 22px;
+  left: 36.66666793823242px;
+  width: 4px;
+  height: 1px;
+  position: absolute;
+}
+.ai-dash-camera-vector26 {
+  top: 29.33333396911621px;
+  left: 36.66666793823242px;
+  width: 4px;
+  height: 1px;
+  position: absolute;
+}
+.ai-dash-camera-vector27 {
+  top: 36.66666793823242px;
+  left: 29.33333396911621px;
+  width: 0px;
+  height: 4px;
+  position: absolute;
+}
+.ai-dash-camera-vector28 {
+  top: 36.66666793823242px;
+  left: 22.018333435058594px;
+  width: 0px;
+  height: 4px;
+  position: absolute;
+}
+.ai-dash-camera-vector29 {
+  top: 36.66666793823242px;
+  left: 14.6850004196167px;
+  width: 0px;
+  height: 4px;
+  position: absolute;
+}
+.ai-dash-camera-vector30 {
+  top: 14.666666984558105px;
+  left: 3.6666667461395264px;
+  width: 4px;
+  height: 1px;
+  position: absolute;
+}
+.ai-dash-camera-vector31 {
+  top: 22px;
+  left: 3.6666667461395264px;
+  width: 4px;
+  height: 1px;
+  position: absolute;
+}
+.ai-dash-camera-vector32 {
+  top: 29.33333396911621px;
+  left: 3.6666667461395264px;
+  width: 4px;
+  height: 1px;
+  position: absolute;
+}
+.ai-dash-camera-text24 {
+  color: var(--dl-color-neutral-900main);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: normal;
+}
+.ai-dash-camera-frame621 {
+  gap: 40px;
+  display: flex;
+  padding: 32px 24px;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: var(--dl-color-white-white);
+}
+.ai-dash-camera-setting1 {
+  width: 44px;
+  height: 44px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.ai-dash-camera-vuesaxlinearsetting21 {
+  top: 0px;
+  left: 0px;
+  width: 44px;
+  height: 44px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.ai-dash-camera-setting21 {
+  top: 0px;
+  left: 0px;
+  width: 44px;
+  height: 44px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.ai-dash-camera-vector33 {
+  top: 16.5px;
+  left: 16.5px;
+  width: 11px;
+  height: 11px;
+  position: absolute;
+}
+.ai-dash-camera-vector34 {
+  top: 4.695347309112549px;
+  left: 3.6666667461395264px;
+  width: 37px;
+  height: 35px;
+  position: absolute;
+}
+.ai-dash-camera-text26 {
+  color: var(--dl-color-neutral-900main);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: normal;
+}
+.ai-dash-camera-core-technology {
+  gap: 20px;
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-color: var(--dl-color-neutral-900main);
+}
+.ai-dash-camera-frame192902 {
+  gap: 64px;
+  display: flex;
+  padding: 100px 0 160px;
+  align-self: center;
+  align-items: center;
+  flex-direction: column;
+}
+.ai-dash-camera-text28 {
+  color: var(--dl-color-orange-800main);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: normal;
+}
+.ai-dash-camera-frame192381 {
+  gap: 20px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+.ai-dash-camera-frame612 {
+  gap: 40px;
+  width: 260px;
+  display: flex;
+  padding: 32px 24px;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-color: var(--dl-color-neutral-800);
+}
+.ai-dash-camera-video3 {
+  width: 44px;
+  height: 44px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.ai-dash-camera-vuesaxlinearvideo2 {
+  top: 0px;
+  left: 0px;
+  width: 44px;
+  height: 44px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.ai-dash-camera-video4 {
+  top: 0px;
+  left: 0px;
+  width: 44px;
+  height: 44px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.ai-dash-camera-vector35 {
+  top: 6.563333034515381px;
+  left: 3.6666667461395264px;
+  width: 27px;
+  height: 31px;
+  position: absolute;
+}
+.ai-dash-camera-vector36 {
+  top: 11.79468059539795px;
+  left: 30.689998626708984px;
+  width: 10px;
+  height: 20px;
+  position: absolute;
+}
+.ai-dash-camera-vector37 {
+  top: 14.666666984558105px;
+  left: 18.33333396911621px;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+}
+.ai-dash-camera-text30 {
+  color: var(--dl-color-white-white);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: normal;
+}
+.ai-dash-camera-arrow1 {
+  width: 40px;
+  height: 20px;
+}
+.ai-dash-camera-frame622 {
+  gap: 40px;
+  width: 260px;
+  display: flex;
+  padding: 32px 24px;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-color: var(--dl-color-neutral-800);
+}
+.ai-dash-camera-brain {
+  width: 44px;
+  height: 44px;
+}
+.ai-dash-camera-text32 {
+  color: var(--dl-color-white-white);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: normal;
+}
+.ai-dash-camera-arrow2 {
+  width: 40px;
+  height: 20px;
+}
+.ai-dash-camera-frame632 {
+  gap: 40px;
+  width: 260px;
+  display: flex;
+  padding: 32px 24px;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-color: var(--dl-color-neutral-800);
+}
+.ai-dash-camera-metadata {
+  width: 44px;
+  height: 44px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.ai-dash-camera-vuesaxlinearscroll {
+  top: 0px;
+  left: 0px;
+  width: 44px;
+  height: 44px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.ai-dash-camera-scroll {
+  top: 0px;
+  left: 0px;
+  width: 44px;
+  height: 44px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.ai-dash-camera-vector38 {
+  top: 3.6666667461395264px;
+  left: 3.6666667461395264px;
+  width: 37px;
+  height: 37px;
+  position: absolute;
+}
+.ai-dash-camera-vector39 {
+  top: 16.44499969482422px;
+  left: 12.636249542236328px;
+  width: 5px;
+  height: 11px;
+  position: absolute;
+}
+.ai-dash-camera-vector40 {
+  top: 16.44499969482422px;
+  left: 26.399999618530273px;
+  width: 5px;
+  height: 11px;
+  position: absolute;
+}
+.ai-dash-camera-text34 {
+  color: var(--dl-color-white-white);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: normal;
+}
+.ai-dash-camera-arrow3 {
+  width: 40px;
+  height: 20px;
+}
+.ai-dash-camera-frame19293 {
+  gap: 20px;
+  width: 260px;
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.ai-dash-camera-frame642 {
+  gap: 40px;
+  height: 186px;
+  display: flex;
+  padding: 32px 24px;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-color: var(--dl-color-neutral-800);
+}
+.ai-dash-camera-setting3 {
+  width: 44px;
+  height: 44px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.ai-dash-camera-vuesaxlinearsetting22 {
+  top: 0px;
+  left: 0px;
+  width: 44px;
+  height: 44px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.ai-dash-camera-setting22 {
+  top: 0px;
+  left: 0px;
+  width: 44px;
+  height: 44px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.ai-dash-camera-vector41 {
+  top: 16.5px;
+  left: 16.5px;
+  width: 11px;
+  height: 11px;
+  position: absolute;
+}
+.ai-dash-camera-vector42 {
+  top: 4.695347309112549px;
+  left: 3.6666667461395264px;
+  width: 37px;
+  height: 35px;
+  position: absolute;
+}
+.ai-dash-camera-text36 {
+  color: var(--dl-color-white-white);
+  height: auto;
+  font-size: 28px;
+  align-self: stretch;
+  font-style: normal;
+  text-align: left;
+  font-family: Archivo Narrow;
+  font-weight: 700px;
+  line-height: normal;
+  font-stretch: normal;
+  letter-spacing: 0em;
+}
+.ai-dash-camera-line2 {
+  width: 50px;
+  height: 20px;
+}
+.ai-dash-camera-frame643 {
+  gap: 40px;
+  height: 186px;
+  display: flex;
+  padding: 32px 24px;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-color: var(--dl-color-neutral-800);
+}
+.ai-dash-camera-dangercircle {
+  width: 44px;
+  height: 44px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.ai-dash-camera-vuesaxlinearinfocircle {
+  top: 0px;
+  left: 0px;
+  width: 44px;
+  height: 44px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.ai-dash-camera-infocircle {
+  top: 0px;
+  left: 0px;
+  width: 44px;
+  height: 44px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.ai-dash-camera-vector43 {
+  top: 3.6666667461395264px;
+  left: 3.6666667461395264px;
+  width: 37px;
+  height: 37px;
+  position: absolute;
+}
+.ai-dash-camera-vector44 {
+  top: 14.666666984558105px;
+  left: 22px;
+  width: 0px;
+  height: 9px;
+  position: absolute;
+}
+.ai-dash-camera-vector45 {
+  top: 29.33333396911621px;
+  left: 21.98992919921875px;
+  width: 0px;
+  height: 2px;
+  position: absolute;
+}
+.ai-dash-camera-text38 {
+  color: var(--dl-color-white-white);
+  height: auto;
+  font-size: 28px;
+  align-self: stretch;
+  font-style: normal;
+  text-align: left;
+  font-family: Archivo Narrow;
+  font-weight: 700px;
+  line-height: normal;
+  font-stretch: normal;
+  letter-spacing: 0em;
+}
+.ai-dash-camera-line1 {
+  width: 50px;
+  height: 20px;
+}
+.ai-dash-camera-frame644 {
+  gap: 40px;
+  height: 186px;
+  display: flex;
+  padding: 32px 24px;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-color: var(--dl-color-neutral-800);
+}
+.ai-dash-camera-graph3 {
+  width: 44px;
+  height: 44px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.ai-dash-camera-vuesaxlineargraph2 {
+  top: 0px;
+  left: 0px;
+  width: 44px;
+  height: 44px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.ai-dash-camera-graph4 {
+  top: 0px;
+  left: 0px;
+  width: 44px;
+  height: 44px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.ai-dash-camera-vector46 {
+  top: 4.792476654052734px;
+  left: 22px;
+  width: 17px;
+  height: 17px;
+  position: absolute;
+}
+.ai-dash-camera-vector47 {
+  top: 7.3516669273376465px;
+  left: 3.664108991622925px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+}
+.ai-dash-camera-text40 {
+  color: var(--dl-color-white-white);
+  height: auto;
+  font-size: 28px;
+  align-self: stretch;
+  font-style: normal;
+  text-align: left;
+  font-family: Archivo Narrow;
+  font-weight: 700px;
+  line-height: normal;
+  font-stretch: normal;
+  letter-spacing: 0em;
+}
+.ai-dash-camera-conclusion {
+  gap: 20px;
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-size: cover;
+  background-image: url("/external/conclustion%20bg-1500w.png");
+}
+.ai-dash-camera-frame192382 {
+  gap: 40px;
+  width: 1280px;
+  height: auto;
+  display: flex;
+  padding: 120px 0;
+  z-index: 1;
+  align-self: center;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.ai-dash-camera-frame19240 {
+  gap: 40px;
+  width: 800px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.ai-dash-camera-frame19294 {
+  gap: 24px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.ai-dash-camera-text42 {
+  color: var(--dl-color-blue-700main);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: normal;
+}
+.ai-dash-camera-text44 {
+  color: var(--dl-color-neutral-500sub);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 27px;
+}
+.ai-dash-camera-frame19298 {
+  gap: 40px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.ai-dash-camera-frame192571 {
+  gap: 16px;
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+}
+.ai-dash-camera-frame681 {
+  gap: 10px;
+  display: flex;
+  padding: 16px;
+  align-items: center;
+  border-radius: 9999px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: var(--dl-color-orange-100);
+}
+.ai-dash-camera-like1 {
+  width: 36px;
+  height: 36px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.ai-dash-camera-vuesaxlinearlike {
+  top: 0px;
+  left: 0px;
+  width: 36px;
+  height: 36px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.ai-dash-camera-like2 {
+  top: 0px;
+  left: 0px;
+  width: 36px;
+  height: 36px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.ai-dash-camera-vector48 {
+  top: 3.9719717502593994px;
+  left: 11.220000267028809px;
+  width: 21px;
+  height: 28px;
+  position: absolute;
+}
+.ai-dash-camera-vector49 {
+  top: 9.975000381469727px;
+  left: 3.570000171661377px;
+  width: 7px;
+  height: 20px;
+  position: absolute;
+}
+.ai-dash-camera-text46 {
+  color: var(--dl-color-neutral-900main);
+  height: auto;
+  flex-grow: 1;
+  text-align: left;
+  line-height: normal;
+}
+.ai-dash-camera-frame192951 {
+  gap: 16px;
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+}
+.ai-dash-camera-frame682 {
+  gap: 10px;
+  display: flex;
+  padding: 16px;
+  align-items: center;
+  border-radius: 9999px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: var(--dl-color-orange-100);
+}
+.ai-dash-camera-medalstar1 {
+  width: 36px;
+  height: 36px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.ai-dash-camera-vuesaxlinearmedalstar {
+  top: 0px;
+  left: 0px;
+  width: 36px;
+  height: 36px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.ai-dash-camera-medalstar2 {
+  top: 0px;
+  left: 0px;
+  width: 36px;
+  height: 36px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.ai-dash-camera-vector50 {
+  top: 3px;
+  left: 7.5px;
+  width: 21px;
+  height: 21px;
+  position: absolute;
+}
+.ai-dash-camera-vector51 {
+  top: 19.349990844726562px;
+  left: 2.9691202640533447px;
+  width: 30px;
+  height: 13px;
+  position: absolute;
+}
+.ai-dash-camera-vector52 {
+  top: 8.25px;
+  left: 13.028360366821289px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.ai-dash-camera-text48 {
+  color: var(--dl-color-neutral-900main);
+  height: auto;
+  flex-grow: 1;
+  text-align: left;
+  line-height: normal;
+}
+.ai-dash-camera-frame19299 {
+  gap: 40px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.ai-dash-camera-frame192572 {
+  gap: 16px;
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+}
+.ai-dash-camera-frame683 {
+  gap: 10px;
+  display: flex;
+  padding: 16px;
+  align-items: center;
+  border-radius: 9999px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: var(--dl-color-orange-100);
+}
+.ai-dash-camera-flash1 {
+  width: 36px;
+  height: 36px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.ai-dash-camera-vuesaxlinearflash {
+  top: 0px;
+  left: 0px;
+  width: 36px;
+  height: 36px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.ai-dash-camera-flash2 {
+  top: 0px;
+  left: 0px;
+  width: 36px;
+  height: 36px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.ai-dash-camera-vector53 {
+  top: 3.5486302375793457px;
+  left: 12.246185302734375px;
+  width: 21px;
+  height: 29px;
+  position: absolute;
+}
+.ai-dash-camera-vector54 {
+  top: 6px;
+  left: 2.25px;
+  width: 10px;
+  height: 1px;
+  position: absolute;
+}
+.ai-dash-camera-vector55 {
+  top: 30px;
+  left: 2.25px;
+  width: 9px;
+  height: 1px;
+  position: absolute;
+}
+.ai-dash-camera-vector56 {
+  top: 18px;
+  left: 2.25px;
+  width: 4px;
+  height: 1px;
+  position: absolute;
+}
+.ai-dash-camera-text50 {
+  color: var(--dl-color-neutral-900main);
+  height: auto;
+  flex-grow: 1;
+  text-align: left;
+  line-height: normal;
+}
+.ai-dash-camera-frame192952 {
+  gap: 16px;
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+}
+.ai-dash-camera-frame684 {
+  gap: 10px;
+  display: flex;
+  padding: 16px;
+  align-items: center;
+  border-radius: 9999px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: var(--dl-color-orange-100);
+}
+.ai-dash-camera-moneytick {
+  width: 36px;
+  height: 36px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.ai-dash-camera-vuesaxlinearmoneytick {
+  top: 0px;
+  left: 0px;
+  width: 36px;
+  height: 36px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.ai-dash-camera-vector57 {
+  top: 14.25px;
+  left: 14.25px;
+  width: 7px;
+  height: 7px;
+  position: absolute;
+}
+.ai-dash-camera-vector58 {
+  top: 14.25px;
+  left: 27.75px;
+  width: 0px;
+  height: 7px;
+  position: absolute;
+}
+.ai-dash-camera-group2 {
+  top: 21px;
+  left: 1.5px;
+  width: 12px;
+  height: 12px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.ai-dash-camera-vector59 {
+  top: 0px;
+  left: 0px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.ai-dash-camera-vector60 {
+  top: 4.529296875px;
+  left: 3.662109375px;
+  width: 5px;
+  height: 3px;
+  position: absolute;
+}
+.ai-dash-camera-vector61 {
+  top: 6px;
+  left: 3px;
+  width: 30px;
+  height: 24px;
+  position: absolute;
+}
+.ai-dash-camera-text52 {
+  color: var(--dl-color-neutral-900main);
+  height: auto;
+  flex-grow: 1;
+  text-align: left;
+  line-height: normal;
+}
+.ai-dash-camera-footer {
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #EE7127;
+}
+.ai-dash-camera-frame105 {
+  gap: 0px;
+  display: flex;
+  align-self: center;
+  align-items: center;
+  border-color: rgba(255, 255, 255, 0.20000000298023224);
+  border-style: solid;
+  border-width: 1px 0 0;
+  flex-direction: column;
+  justify-content: center;
+  background-color: var(--dl-color-orange-800main);
+}
+.ai-dash-camera-frame1041 {
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.ai-dash-camera-frame1061 {
+  gap: 40px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.ai-dash-camera-frame111 {
+  gap: 100px;
+  width: 398px;
+  display: flex;
+  padding: 40px 0;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+}
+.ai-dash-camera-primarylogoasaplainbackground2 {
+  width: 52px;
+  height: 52px;
+}
+.ai-dash-camera-frame109 {
+  gap: 12px;
+  width: 246px;
+  display: flex;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.ai-dash-camera-text54 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ai-dash-camera-text56 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ai-dash-camera-text58 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ai-dash-camera-text60 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ai-dash-camera-text62 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ai-dash-camera-container2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.ai-dash-camera-rectangle11 {
+  width: 1px;
+  height: auto;
+  align-self: stretch;
+}
+.ai-dash-camera-frame110 {
+  gap: 12px;
+  width: 360px;
+  height: 376px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  padding-top: 24px;
+  padding-left: 24px;
+  padding-right: 24px;
+  flex-direction: column;
+  padding-bottom: 24px;
+}
+.ai-dash-camera-text64 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ai-dash-camera-frame116 {
+  gap: 24px;
+  width: 100%;
+  height: 263px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.ai-dash-camera-frame1141 {
+  gap: 10px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.ai-dash-camera-text66 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ai-dash-camera-text68 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 14px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ai-dash-camera-frame1171 {
+  gap: 6px;
+  display: flex;
+  align-items: center;
+}
+.ai-dash-camera-vuesaxlinearcall1 {
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.ai-dash-camera-vuesaxlinearcall2 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.ai-dash-camera-call1 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.ai-dash-camera-call2 {
+  top: 1.3333333730697632px;
+  left: 1.3333333730697632px;
+  width: 13.313333511352539px;
+  height: 13.333333969116211px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.ai-dash-camera-vector62 {
+  top: 0px;
+  left: 0px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+}
+.ai-dash-camera-text69 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ai-dash-camera-rectangle13 {
+  width: auto;
+  height: 1px;
+  align-self: stretch;
+}
+.ai-dash-camera-frame115 {
+  gap: 10px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.ai-dash-camera-text71 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ai-dash-camera-text73 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 14px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ai-dash-camera-frame1172 {
+  gap: 6px;
+  display: flex;
+  align-items: center;
+}
+.ai-dash-camera-vuesaxlinearcall3 {
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.ai-dash-camera-vuesaxlinearcall4 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.ai-dash-camera-call3 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.ai-dash-camera-call4 {
+  top: 1.3333333730697632px;
+  left: 1.3333333730697632px;
+  width: 13.313333511352539px;
+  height: 13.333333969116211px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.ai-dash-camera-vector63 {
+  top: 0px;
+  left: 0px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+}
+.ai-dash-camera-text75 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ai-dash-camera-rectangle12 {
+  width: 1px;
+  height: auto;
+  align-self: stretch;
+}
+.ai-dash-camera-frame113 {
+  gap: 12px;
+  width: 360px;
+  height: 376px;
+  display: flex;
+  padding: 40px 0;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.ai-dash-camera-text77 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ai-dash-camera-frame1142 {
+  gap: 24px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.ai-dash-camera-text79 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: normal;
+}
+.ai-dash-camera-button {
+  gap: 8px;
+  display: flex;
+  padding: 10px 24px;
+  align-items: flex-end;
+  background-color: var(--dl-color-neutral-900main);
+}
+.ai-dash-camera-text81 {
+  color: var(--dl-color-white-white);
+  height: auto;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ai-dash-camera-frame1062 {
+  gap: 10px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  border-color: rgba(255, 255, 255, 0.20000000298023224);
+  border-style: solid;
+  border-width: 1px 0 0;
+  flex-direction: column;
+  background-color: var(--dl-color-orange-800main);
+}
+.ai-dash-camera-frame1042 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.ai-dash-camera-frame108 {
+  width: 1280px;
+  display: flex;
+  padding: 20px 0;
+  align-self: center;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.ai-dash-camera-text83 {
+  color: var(--dl-color-white-white);
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ai-dash-camera-frame107 {
+  gap: 16px;
+  display: flex;
+  align-items: flex-start;
+}
+.ai-dash-camera-uillinkedinalt {
+  width: 20px;
+  height: 20px;
+}
+.ai-dash-camera-facebook {
+  width: 20px;
+  height: 20px;
+}
+.ai-dash-camera-instagram {
+  width: 20px;
+  height: 20px;
+}
+.ai-dash-camera-rectangle7424 {
+  top: 0px;
+  right: -2px;
+  width: 100%;
+  height: 460px;
+  position: absolute;
+}
+.ai-dash-camera-navbar {
+  width: 100%;
+  height: 88px;
+  display: flex;
+  z-index: 100;
+  position: fixed;
+  box-shadow: 0px 6px 20px 0px rgba(0, 0, 0, 0.1);
+  justify-content: center;
+  background-color: white;
+}
+.ai-dash-camera-navbar-interactive {
+  width: 100%;
+  display: flex;
+  max-width: var(--dl-size-size-maxwidth);
+  align-items: center;
+  padding-top: var(--dl-space-space-twounits);
+  padding-left: var(--dl-space-space-threeunits);
+  padding-right: var(--dl-space-space-threeunits);
+  padding-bottom: var(--dl-space-space-twounits);
+  justify-content: space-between;
+}
+.ai-dash-camera-image1 {
+  height: 3rem;
+}
+.ai-dash-camera-desktop-menu {
+  flex: 1;
+  display: flex;
+  justify-content: space-between;
+}
+.ai-dash-camera-links1 {
+  gap: var(--dl-space-space-twounits);
+  flex: 1;
+  display: flex;
+  align-items: center;
+  margin-left: var(--dl-space-space-twounits);
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.ai-dash-camera-link11 {
+  text-decoration: none;
+}
+.ai-dash-camera-burger-menu {
+  display: none;
+}
+.ai-dash-camera-icon1 {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+}
+.ai-dash-camera-mobile-menu {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100vh;
+  display: none;
+  padding: var(--dl-space-space-twounits);
+  z-index: 100;
+  position: absolute;
+  flex-direction: column;
+  background-color: var(--dl-color-theme-neutral-light);
+}
+.ai-dash-camera-nav {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.ai-dash-camera-top {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  margin-bottom: var(--dl-space-space-threeunits);
+  justify-content: space-between;
+}
+.ai-dash-camera-logo {
+  height: 3rem;
+}
+.ai-dash-camera-close-menu {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.ai-dash-camera-icon3 {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+}
+.ai-dash-camera-links2 {
+  gap: var(--dl-space-space-unit);
+  flex: 0 0 auto;
+  display: flex;
+  align-self: flex-start;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.ai-dash-camera-buttons {
+  gap: var(--dl-space-space-twounits);
+  display: flex;
+  margin-top: var(--dl-space-space-twounits);
+  align-items: center;
+}
+@media(max-width: 1274px) {
+  .ai-dash-camera-frame19272 {
+    width: 100%;
+    padding-top: 200px;
+  }
+  .ai-dash-camera-frame19268 {
+    width: 768px;
+  }
+  .ai-dash-camera-frame192901 {
+    width: 768px;
+  }
+  .ai-dash-camera-text18 {
+    align-self: center;
+  }
+  .ai-dash-camera-frame19292 {
+    flex-direction: column;
+  }
+  .ai-dash-camera-frame192902 {
+    width: 768px;
+  }
+  .ai-dash-camera-frame192381 {
+    flex-direction: column;
+  }
+  .ai-dash-camera-arrow1 {
+    transform: rotate(90deg);
+  }
+  .ai-dash-camera-arrow2 {
+    transform: rotate(90deg);
+  }
+  .ai-dash-camera-arrow3 {
+    transform: rotate(90deg);
+  }
+  .ai-dash-camera-frame19293 {
+    gap: 0;
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .ai-dash-camera-frame642 {
+    height: auto;
+  }
+  .ai-dash-camera-line2 {
+    transform: rotate(90deg);
+  }
+  .ai-dash-camera-frame643 {
+    height: auto;
+    padding-top: 24px;
+    padding-bottom: 24px;
+  }
+  .ai-dash-camera-line1 {
+    transform: rotate(90deg);
+  }
+  .ai-dash-camera-frame644 {
+    height: auto;
+    padding-top: 24px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-bottom: 24px;
+  }
+  .ai-dash-camera-frame105 {
+    width: 769px;
+    height: 100%;
+    align-self: center;
+    align-items: center;
+    justify-content: center;
+  }
+  .ai-dash-camera-frame1041 {
+    width: 769px;
+    align-self: center;
+    justify-content: center;
+  }
+  .ai-dash-camera-frame1061 {
+    gap: 16px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+  }
+  .ai-dash-camera-frame111 {
+    gap: 24px;
+    width: auto;
+    align-self: flex-start;
+    padding-top: 24px;
+    padding-left: 16px;
+    padding-bottom: 24px;
+  }
+  .ai-dash-camera-frame109 {
+    width: auto;
+    margin-right: 0px;
+  }
+  .ai-dash-camera-frame110 {
+    width: 277px;
+    height: 419px;
+    padding: 24px;
+  }
+  .ai-dash-camera-frame113 {
+    width: 218px;
+    padding-top: 24px;
+    padding-bottom: 24px;
+  }
+  .ai-dash-camera-frame1142 {
+    width: 100%;
+  }
+  .ai-dash-camera-text79 {
+    width: 100%;
+    font-size: 24px;
+  }
+  .ai-dash-camera-frame1062 {
+    width: 768px;
+    align-self: center;
+  }
+  .ai-dash-camera-frame108 {
+    width: 100%;
+    align-self: center;
+  }
+}
+@media(max-width: 768px) {
+  .ai-dash-camera-frame19272 {
+    width: 390px;
+    padding-top: 160px;
+    padding-bottom: 80px;
+  }
+  .ai-dash-camera-frame19268 {
+    gap: 40px;
+    width: 100%;
+  }
+  .ai-dash-camera-frame19260 {
+    width: 100%;
+  }
+  .ai-dash-camera-frame192901 {
+    width: 390px;
+    padding-top: 80px;
+    padding-bottom: 120px;
+  }
+  .ai-dash-camera-frame192902 {
+    width: 390px;
+  }
+  .ai-dash-camera-text28 {
+    align-self: center;
+  }
+  .ai-dash-camera-text36 {
+    font-size: 16px;
+  }
+  .ai-dash-camera-frame643 {
+    padding: 24px;
+  }
+  .ai-dash-camera-text38 {
+    font-size: 16px;
+  }
+  .ai-dash-camera-frame644 {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+  .ai-dash-camera-text40 {
+    font-size: 16px;
+  }
+  .ai-dash-camera-frame192382 {
+    width: 390px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+  .ai-dash-camera-frame19240 {
+    width: 100%;
+  }
+  .ai-dash-camera-frame19294 {
+    width: 100%;
+  }
+  .ai-dash-camera-frame1061 {
+    gap: 16px;
+    flex-direction: column;
+  }
+  .ai-dash-camera-frame111 {
+    width: 363px;
+    align-self: center;
+    margin-right: 0px;
+  }
+  .ai-dash-camera-text68 {
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: 21px;
+    text-decoration: none;
+  }
+  .ai-dash-camera-frame113 {
+    height: auto;
+    align-self: center;
+  }
+  .ai-dash-camera-frame1062 {
+    width: 100%;
+    height: 97px;
+  }
+  .ai-dash-camera-frame1042 {
+    width: 390px;
+    align-self: center;
+  }
+  .ai-dash-camera-frame108 {
+    gap: 24px;
+    height: 100%;
+    justify-content: center;
+  }
+  .ai-dash-camera-text83 {
+    color: var(--dl-color-white-white);
+    font-size: 14px;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: 21px;
+    text-decoration: none;
+  }
+  .ai-dash-camera-desktop-menu {
+    display: none;
+  }
+  .ai-dash-camera-burger-menu {
+    display: flex;
+  }
+}
+@media(max-width: 767px) {
+  .ai-dash-camera-navbar-interactive {
+    padding-left: var(--dl-space-space-twounits);
+    padding-right: var(--dl-space-space-twounits);
+  }
+  .ai-dash-camera-desktop-menu {
+    display: none;
+  }
+  .ai-dash-camera-burger-menu {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
+@media(max-width: 479px) {
+  .ai-dash-camera-navbar-interactive {
+    padding: var(--dl-space-space-unit);
+  }
+  .ai-dash-camera-mobile-menu {
+    padding: var(--dl-space-space-unit);
+  }
+}
