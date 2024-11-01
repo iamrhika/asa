@@ -5,6 +5,101 @@
   align-items: center;
   flex-direction: column;
 }
+.smartcard-personalisation-navbar {
+  width: 100%;
+  height: 88px;
+  display: flex;
+  z-index: 100;
+  position: fixed;
+  box-shadow: 0px 6px 20px 0px rgba(0, 0, 0, 0.1);
+  justify-content: center;
+  background-color: white;
+}
+.smartcard-personalisation-navbar-interactive {
+  width: 100%;
+  display: flex;
+  max-width: var(--dl-size-size-maxwidth);
+  align-items: center;
+  padding-top: var(--dl-space-space-twounits);
+  padding-left: var(--dl-space-space-threeunits);
+  padding-right: var(--dl-space-space-threeunits);
+  padding-bottom: var(--dl-space-space-twounits);
+  justify-content: space-between;
+}
+.smartcard-personalisation-image1 {
+  height: 3rem;
+}
+.smartcard-personalisation-desktop-menu {
+  flex: 1;
+  display: flex;
+  justify-content: space-between;
+}
+.smartcard-personalisation-links1 {
+  gap: var(--dl-space-space-twounits);
+  flex: 1;
+  display: flex;
+  align-items: center;
+  margin-left: var(--dl-space-space-twounits);
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.smartcard-personalisation-link11 {
+  text-decoration: none;
+}
+.smartcard-personalisation-burger-menu {
+  display: none;
+}
+.smartcard-personalisation-icon1 {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+}
+.smartcard-personalisation-mobile-menu {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100vh;
+  display: none;
+  padding: var(--dl-space-space-twounits);
+  z-index: 100;
+  position: absolute;
+  flex-direction: column;
+  background-color: var(--dl-color-theme-neutral-light);
+}
+.smartcard-personalisation-nav {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.smartcard-personalisation-top {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  margin-bottom: var(--dl-space-space-threeunits);
+  justify-content: space-between;
+}
+.smartcard-personalisation-logo {
+  height: 3rem;
+}
+.smartcard-personalisation-close-menu {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.smartcard-personalisation-icon3 {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+}
+.smartcard-personalisation-links2 {
+  gap: var(--dl-space-space-unit);
+  flex: 0 0 auto;
+  display: flex;
+  align-self: flex-start;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.smartcard-personalisation-link12 {
+  text-decoration: none;
+}
 .smartcard-personalisation-main-content {
   gap: 10px;
   width: 100%;
@@ -622,6 +717,13 @@
   text-align: left;
   line-height: 27px;
 }
+.smartcard-personalisation-rectangle7424 {
+  top: 0px;
+  right: -2px;
+  width: 100%;
+  height: 460px;
+  position: absolute;
+}
 .smartcard-personalisation-footer {
   width: 100%;
   height: auto;
@@ -733,19 +835,6 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.smartcard-personalisation-text48 {
-  color: rgba(255, 255, 255, 1);
-  height: auto;
-  font-size: 16px;
-  align-self: stretch;
-  font-style: Medium;
-  text-align: left;
-  font-family: Poppins;
-  font-weight: 500;
-  line-height: 24px;
-  font-stretch: normal;
-  text-decoration: none;
-}
 .smartcard-personalisation-container2 {
   display: flex;
   align-items: center;
@@ -770,7 +859,7 @@
   flex-direction: column;
   padding-bottom: 24px;
 }
-.smartcard-personalisation-text50 {
+.smartcard-personalisation-text48 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 14px;
@@ -798,7 +887,7 @@
   align-items: flex-start;
   flex-direction: column;
 }
-.smartcard-personalisation-text52 {
+.smartcard-personalisation-text50 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 16px;
@@ -811,7 +900,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.smartcard-personalisation-text54 {
+.smartcard-personalisation-text52 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 14px;
@@ -874,7 +963,7 @@
   height: 13px;
   position: absolute;
 }
-.smartcard-personalisation-text55 {
+.smartcard-personalisation-text53 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 14px;
@@ -898,7 +987,7 @@
   align-items: flex-start;
   flex-direction: column;
 }
-.smartcard-personalisation-text57 {
+.smartcard-personalisation-text55 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 16px;
@@ -911,7 +1000,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.smartcard-personalisation-text59 {
+.smartcard-personalisation-text57 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 14px;
@@ -974,7 +1063,7 @@
   height: 13px;
   position: absolute;
 }
-.smartcard-personalisation-text61 {
+.smartcard-personalisation-text59 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 14px;
@@ -1002,7 +1091,7 @@
   flex-shrink: 0;
   flex-direction: column;
 }
-.smartcard-personalisation-text63 {
+.smartcard-personalisation-text61 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 14px;
@@ -1021,31 +1110,12 @@
   align-items: flex-start;
   flex-direction: column;
 }
-.smartcard-personalisation-text65 {
+.smartcard-personalisation-text63 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   align-self: stretch;
   text-align: left;
   line-height: normal;
-}
-.smartcard-personalisation-button {
-  gap: 8px;
-  display: flex;
-  padding: 10px 24px;
-  align-items: flex-end;
-  background-color: var(--dl-color-neutral-900main);
-}
-.smartcard-personalisation-text67 {
-  color: var(--dl-color-white-white);
-  height: auto;
-  font-size: 16px;
-  font-style: Medium;
-  text-align: center;
-  font-family: Poppins;
-  font-weight: 500;
-  line-height: 24px;
-  font-stretch: normal;
-  text-decoration: none;
 }
 .smartcard-personalisation-frame1062 {
   gap: 10px;
@@ -1073,7 +1143,7 @@
   flex-shrink: 0;
   justify-content: space-between;
 }
-.smartcard-personalisation-text69 {
+.smartcard-personalisation-text65 {
   color: var(--dl-color-white-white);
   height: auto;
   font-size: 14px;
@@ -1101,111 +1171,6 @@
 .smartcard-personalisation-instagram {
   width: 20px;
   height: 20px;
-}
-.smartcard-personalisation-rectangle7424 {
-  top: 0px;
-  right: -2px;
-  width: 100%;
-  height: 460px;
-  position: absolute;
-}
-.smartcard-personalisation-navbar {
-  width: 100%;
-  height: 88px;
-  display: flex;
-  z-index: 100;
-  position: fixed;
-  box-shadow: 0px 6px 20px 0px rgba(0, 0, 0, 0.1);
-  justify-content: center;
-  background-color: white;
-}
-.smartcard-personalisation-navbar-interactive {
-  width: 100%;
-  display: flex;
-  max-width: var(--dl-size-size-maxwidth);
-  align-items: center;
-  padding-top: var(--dl-space-space-twounits);
-  padding-left: var(--dl-space-space-threeunits);
-  padding-right: var(--dl-space-space-threeunits);
-  padding-bottom: var(--dl-space-space-twounits);
-  justify-content: space-between;
-}
-.smartcard-personalisation-image1 {
-  height: 3rem;
-}
-.smartcard-personalisation-desktop-menu {
-  flex: 1;
-  display: flex;
-  justify-content: space-between;
-}
-.smartcard-personalisation-links1 {
-  gap: var(--dl-space-space-twounits);
-  flex: 1;
-  display: flex;
-  align-items: center;
-  margin-left: var(--dl-space-space-twounits);
-  flex-direction: row;
-  justify-content: flex-start;
-}
-.smartcard-personalisation-link11 {
-  text-decoration: none;
-}
-.smartcard-personalisation-burger-menu {
-  display: none;
-}
-.smartcard-personalisation-icon1 {
-  width: var(--dl-size-size-xsmall);
-  height: var(--dl-size-size-xsmall);
-}
-.smartcard-personalisation-mobile-menu {
-  top: 0px;
-  left: 0px;
-  width: 100%;
-  height: 100vh;
-  display: none;
-  padding: var(--dl-space-space-twounits);
-  z-index: 100;
-  position: absolute;
-  flex-direction: column;
-  background-color: var(--dl-color-theme-neutral-light);
-}
-.smartcard-personalisation-nav {
-  display: flex;
-  align-items: flex-start;
-  flex-direction: column;
-}
-.smartcard-personalisation-top {
-  width: 100%;
-  display: flex;
-  align-items: center;
-  margin-bottom: var(--dl-space-space-threeunits);
-  justify-content: space-between;
-}
-.smartcard-personalisation-logo {
-  height: 3rem;
-}
-.smartcard-personalisation-close-menu {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.smartcard-personalisation-icon3 {
-  width: var(--dl-size-size-xsmall);
-  height: var(--dl-size-size-xsmall);
-}
-.smartcard-personalisation-links2 {
-  gap: var(--dl-space-space-unit);
-  flex: 0 0 auto;
-  display: flex;
-  align-self: flex-start;
-  align-items: flex-start;
-  flex-direction: column;
-}
-.smartcard-personalisation-buttons {
-  gap: var(--dl-space-space-twounits);
-  display: flex;
-  margin-top: var(--dl-space-space-twounits);
-  align-items: center;
 }
 @media(max-width: 1274px) {
   .smartcard-personalisation-frame19272 {
@@ -1274,7 +1239,7 @@
   .smartcard-personalisation-frame1142 {
     width: 100%;
   }
-  .smartcard-personalisation-text65 {
+  .smartcard-personalisation-text63 {
     width: 100%;
     font-size: 24px;
   }
@@ -1288,6 +1253,12 @@
   }
 }
 @media(max-width: 768px) {
+  .smartcard-personalisation-desktop-menu {
+    display: none;
+  }
+  .smartcard-personalisation-burger-menu {
+    display: flex;
+  }
   .smartcard-personalisation-frame19268 {
     width: 390px;
   }
@@ -1300,8 +1271,15 @@
   .smartcard-personalisation-frame19240 {
     width: 390ox;
   }
+  .smartcard-personalisation-frame105 {
+    width: 100%;
+  }
+  .smartcard-personalisation-frame1041 {
+    width: 100%;
+  }
   .smartcard-personalisation-frame1061 {
     gap: 16px;
+    width: 390PX;
     flex-direction: column;
   }
   .smartcard-personalisation-frame111 {
@@ -1309,7 +1287,7 @@
     align-self: center;
     margin-right: 0px;
   }
-  .smartcard-personalisation-text54 {
+  .smartcard-personalisation-text52 {
     color: rgb(255, 255, 255);
     font-size: 14px;
     font-family: Poppins;
@@ -1326,27 +1304,23 @@
     height: 97px;
   }
   .smartcard-personalisation-frame1042 {
-    width: 390px;
+    width: 100%;
     align-self: center;
   }
   .smartcard-personalisation-frame108 {
     gap: 24px;
     height: 100%;
+    padding-left: 16px;
+    padding-right: 16px;
     justify-content: center;
   }
-  .smartcard-personalisation-text69 {
+  .smartcard-personalisation-text65 {
     color: var(--dl-color-white-white);
     font-size: 14px;
     font-family: Poppins;
     font-weight: 400;
     line-height: 21px;
     text-decoration: none;
-  }
-  .smartcard-personalisation-desktop-menu {
-    display: none;
-  }
-  .smartcard-personalisation-burger-menu {
-    display: flex;
   }
 }
 @media(max-width: 767px) {

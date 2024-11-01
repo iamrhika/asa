@@ -97,33 +97,16 @@
   border-radius: 4px;
   background-color: white;
 }
-.thq-input:focus {
-  outline: 1px solid var(--dl-color-theme-primary1);
-}
 .thq-button-filled {
   gap: var(--dl-space-space-halfunit);
-  fill: var(--dl-color-theme-secondary1);
-  color: var(--dl-color-theme-secondary1);
+  color: white;
   cursor: pointer;
   display: flex;
-  transition: 0.3s;
   align-items: center;
   font-weight: bold;
-  padding-top: var(--dl-space-space-halfunit);
   white-space: nowrap;
-  border-color: EE7127;
-  border-width: 1px;
-  padding-left: var(--dl-space-space-oneandhalfunits);
-  padding-right: var(--dl-space-space-oneandhalfunits);
-  padding-bottom: var(--dl-space-space-halfunit);
   justify-content: center;
-  background-color: EE7127;
-}
-.thq-button-filled:hover {
-  fill: var(--dl-color-theme-secondary2);
-  color: var(--dl-color-theme-secondary2);
-  border-color: var(--dl-color-theme-primary2);
-  background-color: var(--dl-color-theme-primary2);
+  background-color: #EE7127;
 }
 .thq-button-outline {
   gap: var(--dl-space-space-halfunit);
@@ -355,9 +338,6 @@
   background-size: 200% 100%;
   background-position: 100%;
   -webkit-text-fill-color: transparent;
-}
-.thq-link:hover {
-  background-position: 0 100%;
 }
 .thq-grid-auto-300 {
   display: grid;

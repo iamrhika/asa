@@ -15,19 +15,90 @@ const AntiMoneyLaunderingSystem = (props) => {
           content="Anti-Money-Laundering-System - PT ASA"
         />
       </Helmet>
+      <nav className="anti-money-laundering-system-navbar">
+        <header
+          data-thq="thq-navbar"
+          className="anti-money-laundering-system-navbar-interactive"
+        >
+          <img
+            alt="Smart Card Innovations"
+            src="/external/primary_logo_asa_plain%201-1500h.png"
+            className="anti-money-laundering-system-image1"
+          />
+          <div
+            data-thq="thq-navbar-nav"
+            className="anti-money-laundering-system-desktop-menu"
+          >
+            <nav className="anti-money-laundering-system-links1">
+              <Link
+                to="/"
+                className="anti-money-laundering-system-link11 thq-link thq-body-small"
+              >
+                Home
+              </Link>
+            </nav>
+          </div>
+          <div
+            data-thq="thq-burger-menu"
+            className="anti-money-laundering-system-burger-menu"
+          >
+            <svg
+              viewBox="0 0 1024 1024"
+              className="anti-money-laundering-system-icon1"
+            >
+              <path d="M128 554.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667zM128 298.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667zM128 810.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667z"></path>
+            </svg>
+          </div>
+          <div
+            data-thq="thq-mobile-menu"
+            className="anti-money-laundering-system-mobile-menu"
+          >
+            <div className="anti-money-laundering-system-nav">
+              <div className="anti-money-laundering-system-top">
+                <img
+                  alt="Smart Card Innovations"
+                  src="/primary_logo_asa_plain%201%20logo-1500h.png"
+                  className="anti-money-laundering-system-logo"
+                />
+                <div
+                  data-thq="thq-close-menu"
+                  className="anti-money-laundering-system-close-menu"
+                >
+                  <svg
+                    viewBox="0 0 1024 1024"
+                    className="anti-money-laundering-system-icon3"
+                  >
+                    <path d="M810 274l-238 238 238 238-60 60-238-238-238 238-60-60 238-238-238-238 60-60 238 238 238-238z"></path>
+                  </svg>
+                </div>
+              </div>
+              <nav className="anti-money-laundering-system-links2">
+                <Link
+                  to="/"
+                  className="anti-money-laundering-system-link12 thq-link thq-body-small"
+                >
+                  Home
+                </Link>
+              </nav>
+            </div>
+          </div>
+        </header>
+      </nav>
       <div className="anti-money-laundering-system-main-content">
         <div className="anti-money-laundering-system-frame19268">
           <div className="anti-money-laundering-system-frame19309">
-            <div className="anti-money-laundering-system-frame19229">
-              <img
-                alt="arrowleft1532"
-                src="/external/arrowleft1532-g3t.svg"
-                className="anti-money-laundering-system-arrowleft"
-              />
-              <span className="anti-money-laundering-system-text10 BodyB1Medium">
-                <span>Back</span>
-              </span>
-            </div>
+            <Link to="/" className="anti-money-laundering-system-navlink">
+              <div className="anti-money-laundering-system-frame19229">
+                <img
+                  alt="arrowleft1532"
+                  src="/external/arrowleft1532-g3t.svg"
+                  className="anti-money-laundering-system-arrowleft"
+                />
+                <span className="anti-money-laundering-system-text10 BodyB1Medium">
+                  <span>Back</span>
+                </span>
+              </div>
+            </Link>
             <div className="anti-money-laundering-system-frame19260">
               <div className="anti-money-laundering-system-frame19285">
                 <span className="anti-money-laundering-system-text12 BodyB2Medium">
@@ -317,6 +388,11 @@ const AntiMoneyLaunderingSystem = (props) => {
           </div>
         </div>
       </div>
+      <img
+        alt="Rectangle74241231"
+        src="/external/rectangle74241231-at1-500h.png"
+        className="anti-money-laundering-system-rectangle7424"
+      />
       <div className="anti-money-laundering-system-footer">
         <div className="anti-money-laundering-system-frame105">
           <div className="anti-money-laundering-system-frame1041">
@@ -328,19 +404,16 @@ const AntiMoneyLaunderingSystem = (props) => {
                   className="anti-money-laundering-system-primarylogoasaplainbackground2"
                 />
                 <div className="anti-money-laundering-system-frame109">
-                  <span className="anti-money-laundering-system-text44">
+                  <Link to="/" className="anti-money-laundering-system-text44">
                     <span>Home</span>
-                  </span>
+                  </Link>
                   <span className="anti-money-laundering-system-text46">
-                    <span>About</span>
-                  </span>
-                  <span className="anti-money-laundering-system-text48">
                     <span>Works</span>
                   </span>
-                  <span className="anti-money-laundering-system-text50">
+                  <span className="anti-money-laundering-system-text48">
                     <span>Production</span>
                   </span>
-                  <span className="anti-money-laundering-system-text52">
+                  <span className="anti-money-laundering-system-text50">
                     <span>Solution</span>
                   </span>
                 </div>
@@ -352,15 +425,15 @@ const AntiMoneyLaunderingSystem = (props) => {
                   className="anti-money-laundering-system-rectangle11"
                 />
                 <div className="anti-money-laundering-system-frame110">
-                  <span className="anti-money-laundering-system-text54">
+                  <span className="anti-money-laundering-system-text52">
                     <span>Contact</span>
                   </span>
                   <div className="anti-money-laundering-system-frame116">
                     <div className="anti-money-laundering-system-frame1141">
-                      <span className="anti-money-laundering-system-text56">
+                      <span className="anti-money-laundering-system-text54">
                         <span>Head Office</span>
                       </span>
-                      <span className="anti-money-laundering-system-text58">
+                      <span className="anti-money-laundering-system-text56">
                         {' '}
                         Revenue Tower Lt. 26 Jl Jenderal Sudirman kav. 52-53
                         Jakarta Selatan 12190
@@ -379,7 +452,7 @@ const AntiMoneyLaunderingSystem = (props) => {
                             </div>
                           </div>
                         </div>
-                        <span className="anti-money-laundering-system-text59">
+                        <span className="anti-money-laundering-system-text57">
                           <span>+62 2139728288</span>
                         </span>
                       </div>
@@ -390,10 +463,10 @@ const AntiMoneyLaunderingSystem = (props) => {
                       className="anti-money-laundering-system-rectangle13"
                     />
                     <div className="anti-money-laundering-system-frame115">
-                      <span className="anti-money-laundering-system-text61">
+                      <span className="anti-money-laundering-system-text59">
                         <span>Factory</span>
                       </span>
-                      <span className="anti-money-laundering-system-text63">
+                      <span className="anti-money-laundering-system-text61">
                         <span>
                           Jalan Albasia Raya, Blok K 03 No 09, Delta Silicon 8,
                           Lippo Cikarang, Kab. Bekasi, Jawa Barat 17530
@@ -413,7 +486,7 @@ const AntiMoneyLaunderingSystem = (props) => {
                             </div>
                           </div>
                         </div>
-                        <span className="anti-money-laundering-system-text65">
+                        <span className="anti-money-laundering-system-text63">
                           <span>+62 82121217541</span>
                         </span>
                       </div>
@@ -427,18 +500,13 @@ const AntiMoneyLaunderingSystem = (props) => {
                 />
               </div>
               <div className="anti-money-laundering-system-frame113">
-                <span className="anti-money-laundering-system-text67">
+                <span className="anti-money-laundering-system-text65">
                   <span>Get Started</span>
                 </span>
                 <div className="anti-money-laundering-system-frame1142">
-                  <span className="anti-money-laundering-system-text69 HeadingH2Semibold">
+                  <span className="anti-money-laundering-system-text67 HeadingH2Semibold">
                     <span>Get The Future You Want With ASA.</span>
                   </span>
-                  <button className="anti-money-laundering-system-button">
-                    <span className="anti-money-laundering-system-text71">
-                      <span>Contact Us</span>
-                    </span>
-                  </button>
                 </div>
               </div>
             </div>
@@ -447,7 +515,7 @@ const AntiMoneyLaunderingSystem = (props) => {
         <div className="anti-money-laundering-system-frame1062">
           <div className="anti-money-laundering-system-frame1042">
             <div className="anti-money-laundering-system-frame108">
-              <span className="anti-money-laundering-system-text73">
+              <span className="anti-money-laundering-system-text69">
                 Copyright ©2024 All Rights Reserved | PT Askara Satya Abadi
               </span>
               <div className="anti-money-laundering-system-frame107">
@@ -471,108 +539,6 @@ const AntiMoneyLaunderingSystem = (props) => {
           </div>
         </div>
       </div>
-      <img
-        alt="Rectangle74241231"
-        src="/external/rectangle74241231-at1-500h.png"
-        className="anti-money-laundering-system-rectangle7424"
-      />
-      <nav className="anti-money-laundering-system-navbar">
-        <header
-          data-thq="thq-navbar"
-          className="anti-money-laundering-system-navbar-interactive"
-        >
-          <img
-            alt="Smart Card Innovations"
-            src="/external/primary_logo_asa_plain%201-1500h.png"
-            className="anti-money-laundering-system-image1"
-          />
-          <div
-            data-thq="thq-navbar-nav"
-            className="anti-money-laundering-system-desktop-menu"
-          >
-            <nav className="anti-money-laundering-system-links1">
-              <Link
-                to="/"
-                className="anti-money-laundering-system-link11 thq-link thq-body-small"
-              >
-                Home
-              </Link>
-            </nav>
-          </div>
-          <div
-            data-thq="thq-burger-menu"
-            className="anti-money-laundering-system-burger-menu"
-          >
-            <svg
-              viewBox="0 0 1024 1024"
-              className="anti-money-laundering-system-icon1"
-            >
-              <path d="M128 554.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667zM128 298.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667zM128 810.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667z"></path>
-            </svg>
-          </div>
-          <div
-            data-thq="thq-mobile-menu"
-            className="anti-money-laundering-system-mobile-menu"
-          >
-            <div className="anti-money-laundering-system-nav">
-              <div className="anti-money-laundering-system-top">
-                <img
-                  alt="Smart Card Innovations"
-                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/84ec08e8-34e9-42c7-9445-d2806d156403/fac575ac-7a41-484f-b7ac-875042de11f8?org_if_sml=1&amp;force_format=original"
-                  className="anti-money-laundering-system-logo"
-                />
-                <div
-                  data-thq="thq-close-menu"
-                  className="anti-money-laundering-system-close-menu"
-                >
-                  <svg
-                    viewBox="0 0 1024 1024"
-                    className="anti-money-laundering-system-icon3"
-                  >
-                    <path d="M810 274l-238 238 238 238-60 60-238-238-238 238-60-60 238-238-238-238 60-60 238 238 238-238z"></path>
-                  </svg>
-                </div>
-              </div>
-              <nav className="anti-money-laundering-system-links2">
-                <a
-                  href="https://www.teleporthq.io"
-                  className="thq-link thq-body-small"
-                >
-                  Home
-                </a>
-                <a
-                  href="https://www.teleporthq.io"
-                  className="thq-link thq-body-small"
-                >
-                  Services
-                </a>
-                <a
-                  href="https://www.teleporthq.io"
-                  className="thq-link thq-body-small"
-                >
-                  Technology
-                </a>
-                <a
-                  href="https://www.teleporthq.io"
-                  className="thq-link thq-body-small"
-                >
-                  Case Studies
-                </a>
-                <a
-                  href="https://www.teleporthq.io"
-                  className="thq-link thq-body-small"
-                >
-                  Contact
-                </a>
-              </nav>
-            </div>
-            <div className="anti-money-laundering-system-buttons">
-              <button>Login</button>
-              <button>Register</button>
-            </div>
-          </div>
-        </header>
-      </nav>
     </div>
   )
 }

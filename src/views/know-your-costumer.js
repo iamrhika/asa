@@ -12,6 +12,72 @@ const KnowYourCostumer = (props) => {
         <title>Know-Your-Costumer - PT ASA</title>
         <meta property="og:title" content="Know-Your-Costumer - PT ASA" />
       </Helmet>
+      <nav className="know-your-costumer-navbar">
+        <header
+          data-thq="thq-navbar"
+          className="know-your-costumer-navbar-interactive"
+        >
+          <img
+            alt="Smart Card Innovations"
+            src="/external/primary_logo_asa_plain%201-1500h.png"
+            className="know-your-costumer-image1"
+          />
+          <div
+            data-thq="thq-navbar-nav"
+            className="know-your-costumer-desktop-menu"
+          >
+            <nav className="know-your-costumer-links1">
+              <Link
+                to="/"
+                className="know-your-costumer-link11 thq-link thq-body-small"
+              >
+                Home
+              </Link>
+            </nav>
+          </div>
+          <div
+            data-thq="thq-burger-menu"
+            className="know-your-costumer-burger-menu"
+          >
+            <svg viewBox="0 0 1024 1024" className="know-your-costumer-icon1">
+              <path d="M128 554.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667zM128 298.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667zM128 810.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667z"></path>
+            </svg>
+          </div>
+          <div
+            data-thq="thq-mobile-menu"
+            className="know-your-costumer-mobile-menu"
+          >
+            <div className="know-your-costumer-nav">
+              <div className="know-your-costumer-top">
+                <img
+                  alt="Smart Card Innovations"
+                  src="/primary_logo_asa_plain%201%20logo-1500h.png"
+                  className="know-your-costumer-logo"
+                />
+                <div
+                  data-thq="thq-close-menu"
+                  className="know-your-costumer-close-menu"
+                >
+                  <svg
+                    viewBox="0 0 1024 1024"
+                    className="know-your-costumer-icon3"
+                  >
+                    <path d="M810 274l-238 238 238 238-60 60-238-238-238 238-60-60 238-238-238-238 60-60 238 238 238-238z"></path>
+                  </svg>
+                </div>
+              </div>
+              <nav className="know-your-costumer-links2">
+                <Link
+                  to="/"
+                  className="know-your-costumer-link12 thq-link thq-body-small"
+                >
+                  Home
+                </Link>
+              </nav>
+            </div>
+          </div>
+        </header>
+      </nav>
       <div className="know-your-costumer-main-content">
         <div className="know-your-costumer-frame19272">
           <div className="know-your-costumer-frame19268">
@@ -171,6 +237,11 @@ const KnowYourCostumer = (props) => {
           </div>
         </div>
       </div>
+      <img
+        alt="Rectangle74241231"
+        src="/external/rectangle74241231-at1-500h.png"
+        className="know-your-costumer-rectangle7424"
+      />
       <div className="know-your-costumer-footer">
         <div className="know-your-costumer-frame105">
           <div className="know-your-costumer-frame1041">
@@ -182,19 +253,16 @@ const KnowYourCostumer = (props) => {
                   className="know-your-costumer-primarylogoasaplainbackground2"
                 />
                 <div className="know-your-costumer-frame109">
-                  <span className="know-your-costumer-text28">
+                  <Link to="/" className="know-your-costumer-text28">
                     <span>Home</span>
-                  </span>
+                  </Link>
                   <span className="know-your-costumer-text30">
-                    <span>About</span>
-                  </span>
-                  <span className="know-your-costumer-text32">
                     <span>Works</span>
                   </span>
-                  <span className="know-your-costumer-text34">
+                  <span className="know-your-costumer-text32">
                     <span>Production</span>
                   </span>
-                  <span className="know-your-costumer-text36">
+                  <span className="know-your-costumer-text34">
                     <span>Solution</span>
                   </span>
                 </div>
@@ -206,15 +274,15 @@ const KnowYourCostumer = (props) => {
                   className="know-your-costumer-rectangle11"
                 />
                 <div className="know-your-costumer-frame110">
-                  <span className="know-your-costumer-text38">
+                  <span className="know-your-costumer-text36">
                     <span>Contact</span>
                   </span>
                   <div className="know-your-costumer-frame116">
                     <div className="know-your-costumer-frame1141">
-                      <span className="know-your-costumer-text40">
+                      <span className="know-your-costumer-text38">
                         <span>Head Office</span>
                       </span>
-                      <span className="know-your-costumer-text42">
+                      <span className="know-your-costumer-text40">
                         {' '}
                         Revenue Tower Lt. 26 Jl Jenderal Sudirman kav. 52-53
                         Jakarta Selatan 12190
@@ -233,7 +301,7 @@ const KnowYourCostumer = (props) => {
                             </div>
                           </div>
                         </div>
-                        <span className="know-your-costumer-text43">
+                        <span className="know-your-costumer-text41">
                           <span>+62 2139728288</span>
                         </span>
                       </div>
@@ -244,10 +312,10 @@ const KnowYourCostumer = (props) => {
                       className="know-your-costumer-rectangle13"
                     />
                     <div className="know-your-costumer-frame115">
-                      <span className="know-your-costumer-text45">
+                      <span className="know-your-costumer-text43">
                         <span>Factory</span>
                       </span>
-                      <span className="know-your-costumer-text47">
+                      <span className="know-your-costumer-text45">
                         <span>
                           Jalan Albasia Raya, Blok K 03 No 09, Delta Silicon 8,
                           Lippo Cikarang, Kab. Bekasi, Jawa Barat 17530
@@ -267,7 +335,7 @@ const KnowYourCostumer = (props) => {
                             </div>
                           </div>
                         </div>
-                        <span className="know-your-costumer-text49">
+                        <span className="know-your-costumer-text47">
                           <span>+62 82121217541</span>
                         </span>
                       </div>
@@ -281,18 +349,13 @@ const KnowYourCostumer = (props) => {
                 />
               </div>
               <div className="know-your-costumer-frame113">
-                <span className="know-your-costumer-text51">
+                <span className="know-your-costumer-text49">
                   <span>Get Started</span>
                 </span>
                 <div className="know-your-costumer-frame1142">
-                  <span className="know-your-costumer-text53 HeadingH2Semibold">
+                  <span className="know-your-costumer-text51 HeadingH2Semibold">
                     <span>Get The Future You Want With ASA.</span>
                   </span>
-                  <button className="know-your-costumer-button">
-                    <span className="know-your-costumer-text55">
-                      <span>Contact Us</span>
-                    </span>
-                  </button>
                 </div>
               </div>
             </div>
@@ -301,7 +364,7 @@ const KnowYourCostumer = (props) => {
         <div className="know-your-costumer-frame1062">
           <div className="know-your-costumer-frame1042">
             <div className="know-your-costumer-frame108">
-              <span className="know-your-costumer-text57">
+              <span className="know-your-costumer-text53">
                 Copyright ©2024 All Rights Reserved | PT Askara Satya Abadi
               </span>
               <div className="know-your-costumer-frame107">
@@ -325,105 +388,6 @@ const KnowYourCostumer = (props) => {
           </div>
         </div>
       </div>
-      <img
-        alt="Rectangle74241231"
-        src="/external/rectangle74241231-at1-500h.png"
-        className="know-your-costumer-rectangle7424"
-      />
-      <nav className="know-your-costumer-navbar">
-        <header
-          data-thq="thq-navbar"
-          className="know-your-costumer-navbar-interactive"
-        >
-          <img
-            alt="Smart Card Innovations"
-            src="/external/primary_logo_asa_plain%201-1500h.png"
-            className="know-your-costumer-image1"
-          />
-          <div
-            data-thq="thq-navbar-nav"
-            className="know-your-costumer-desktop-menu"
-          >
-            <nav className="know-your-costumer-links1">
-              <Link
-                to="/"
-                className="know-your-costumer-link11 thq-link thq-body-small"
-              >
-                Home
-              </Link>
-            </nav>
-          </div>
-          <div
-            data-thq="thq-burger-menu"
-            className="know-your-costumer-burger-menu"
-          >
-            <svg viewBox="0 0 1024 1024" className="know-your-costumer-icon1">
-              <path d="M128 554.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667zM128 298.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667zM128 810.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667z"></path>
-            </svg>
-          </div>
-          <div
-            data-thq="thq-mobile-menu"
-            className="know-your-costumer-mobile-menu"
-          >
-            <div className="know-your-costumer-nav">
-              <div className="know-your-costumer-top">
-                <img
-                  alt="Smart Card Innovations"
-                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/84ec08e8-34e9-42c7-9445-d2806d156403/fac575ac-7a41-484f-b7ac-875042de11f8?org_if_sml=1&amp;force_format=original"
-                  className="know-your-costumer-logo"
-                />
-                <div
-                  data-thq="thq-close-menu"
-                  className="know-your-costumer-close-menu"
-                >
-                  <svg
-                    viewBox="0 0 1024 1024"
-                    className="know-your-costumer-icon3"
-                  >
-                    <path d="M810 274l-238 238 238 238-60 60-238-238-238 238-60-60 238-238-238-238 60-60 238 238 238-238z"></path>
-                  </svg>
-                </div>
-              </div>
-              <nav className="know-your-costumer-links2">
-                <a
-                  href="https://www.teleporthq.io"
-                  className="thq-link thq-body-small"
-                >
-                  Home
-                </a>
-                <a
-                  href="https://www.teleporthq.io"
-                  className="thq-link thq-body-small"
-                >
-                  Services
-                </a>
-                <a
-                  href="https://www.teleporthq.io"
-                  className="thq-link thq-body-small"
-                >
-                  Technology
-                </a>
-                <a
-                  href="https://www.teleporthq.io"
-                  className="thq-link thq-body-small"
-                >
-                  Case Studies
-                </a>
-                <a
-                  href="https://www.teleporthq.io"
-                  className="thq-link thq-body-small"
-                >
-                  Contact
-                </a>
-              </nav>
-            </div>
-            <div className="know-your-costumer-buttons">
-              <button>Login</button>
-              <button>Register</button>
-            </div>
-          </div>
-        </header>
-      </nav>
     </div>
   )
 }

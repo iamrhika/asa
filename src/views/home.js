@@ -49,9 +49,9 @@ const Home = (props) => {
                 Solution
               </a>
             </nav>
-            <div className="home-buttons1">
+            <div className="home-buttons">
               <a href="#contact us" className="home-action11 thq-button-filled">
-                <span className="thq-body-small">Contact</span>
+                <span className="home-text100 thq-body-small">Contact</span>
               </a>
             </div>
           </div>
@@ -65,7 +65,7 @@ const Home = (props) => {
               <div className="home-top">
                 <img
                   alt="Smart Card Innovations"
-                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/84ec08e8-34e9-42c7-9445-d2806d156403/fac575ac-7a41-484f-b7ac-875042de11f8?org_if_sml=1&amp;force_format=original"
+                  src="/primary_logo_asa_plain%201%20logo-1500h.png"
                   className="home-logo"
                 />
                 <div data-thq="thq-close-menu" className="home-close-menu">
@@ -75,41 +75,34 @@ const Home = (props) => {
                 </div>
               </div>
               <nav className="home-links2">
-                <a
-                  href="https://www.teleporthq.io"
-                  className="thq-link thq-body-small"
-                >
+                <Link to="/" className="home-link12 thq-link thq-body-small">
                   Home
+                </Link>
+                <a
+                  href="#Hero Section"
+                  className="home-link22 thq-link thq-body-small"
+                >
+                  About
                 </a>
                 <a
-                  href="https://www.teleporthq.io"
-                  className="thq-link thq-body-small"
+                  href="#Our Works"
+                  className="home-link32 thq-link thq-body-small"
                 >
-                  Services
+                  Works
                 </a>
                 <a
-                  href="https://www.teleporthq.io"
-                  className="thq-link thq-body-small"
+                  href="#our procces"
+                  className="home-link42 thq-link thq-body-small"
                 >
-                  Technology
+                  Production
                 </a>
                 <a
-                  href="https://www.teleporthq.io"
-                  className="thq-link thq-body-small"
+                  href="#solution"
+                  className="home-link52 thq-link thq-body-small"
                 >
-                  Case Studies
-                </a>
-                <a
-                  href="https://www.teleporthq.io"
-                  className="thq-link thq-body-small"
-                >
-                  Contact
+                  Solution
                 </a>
               </nav>
-            </div>
-            <div className="home-buttons2">
-              <button>Login</button>
-              <button>Register</button>
             </div>
           </div>
         </header>
@@ -995,7 +988,7 @@ const Home = (props) => {
                       <div className="home-input1">
                         <label
                           htmlFor="contact-form-6-first-name"
-                          className="thq-body-small"
+                          className="home-text233 thq-body-small"
                         >
                           First name
                         </label>
@@ -1010,7 +1003,7 @@ const Home = (props) => {
                       <div className="home-input2">
                         <label
                           htmlFor="contact-form-6-last-name"
-                          className="thq-body-small"
+                          className="home-text234 thq-body-small"
                         >
                           Last name
                         </label>
@@ -1027,7 +1020,7 @@ const Home = (props) => {
                       <div className="home-input3">
                         <label
                           htmlFor="contact-form-6-email"
-                          className="thq-body-small"
+                          className="home-text235 thq-body-small"
                         >
                           Email
                         </label>
@@ -1042,7 +1035,7 @@ const Home = (props) => {
                       <div className="home-input4">
                         <label
                           htmlFor="contact-form-6-phone"
-                          className="thq-body-small"
+                          className="home-text236 thq-body-small"
                         >
                           Phone Number
                         </label>
@@ -1164,18 +1157,18 @@ const Home = (props) => {
                   <span className="home-text251">
                     <span>Home</span>
                   </span>
-                  <span className="home-text253">
+                  <a href="#Hero Section" className="home-text253">
                     <span>About</span>
-                  </span>
-                  <span className="home-text255">
+                  </a>
+                  <a href="#Our Works" className="home-text255">
                     <span>Works</span>
-                  </span>
-                  <span className="home-text257">
+                  </a>
+                  <a href="#our procces" className="home-text257">
                     <span>Production</span>
-                  </span>
-                  <span className="home-text259">
+                  </a>
+                  <a href="#solution" className="home-text259">
                     <span>Solution</span>
-                  </span>
+                  </a>
                 </div>
               </div>
               <div className="home-container8">
@@ -1267,11 +1260,11 @@ const Home = (props) => {
                   <span className="home-text276 HeadingH2Semibold">
                     <span>Get The Future You Want With ASA.</span>
                   </span>
-                  <button className="home-button3">
+                  <a href="#contact us" className="home-button3">
                     <span className="home-text278">
                       <span>Contact Us</span>
                     </span>
-                  </button>
+                  </a>
                 </div>
               </div>
             </div>

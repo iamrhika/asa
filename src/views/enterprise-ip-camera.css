@@ -5,13 +5,6 @@
   align-items: center;
   flex-direction: column;
 }
-.enterprise-ip-camera-container2 {
-  width: 100%;
-  display: flex;
-  min-height: 100vh;
-  align-items: center;
-  flex-direction: column;
-}
 .enterprise-ip-camera-main-content {
   gap: 10px;
   width: 100%;
@@ -253,6 +246,108 @@
   text-align: center;
   line-height: 27px;
 }
+.enterprise-ip-camera-navbar {
+  width: 100%;
+  height: 88px;
+  display: flex;
+  z-index: 100;
+  position: fixed;
+  box-shadow: 0px 6px 20px 0px rgba(0, 0, 0, 0.1);
+  justify-content: center;
+  background-color: white;
+}
+.enterprise-ip-camera-navbar-interactive {
+  width: 100%;
+  display: flex;
+  max-width: var(--dl-size-size-maxwidth);
+  align-items: center;
+  padding-top: var(--dl-space-space-twounits);
+  padding-left: var(--dl-space-space-threeunits);
+  padding-right: var(--dl-space-space-threeunits);
+  padding-bottom: var(--dl-space-space-twounits);
+  justify-content: space-between;
+}
+.enterprise-ip-camera-image1 {
+  height: 3rem;
+}
+.enterprise-ip-camera-desktop-menu {
+  flex: 1;
+  display: flex;
+  justify-content: space-between;
+}
+.enterprise-ip-camera-links1 {
+  gap: var(--dl-space-space-twounits);
+  flex: 1;
+  display: flex;
+  align-items: center;
+  margin-left: var(--dl-space-space-twounits);
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.enterprise-ip-camera-link11 {
+  text-decoration: none;
+}
+.enterprise-ip-camera-burger-menu {
+  display: none;
+}
+.enterprise-ip-camera-icon1 {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+}
+.enterprise-ip-camera-mobile-menu {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100vh;
+  display: none;
+  padding: var(--dl-space-space-twounits);
+  z-index: 100;
+  position: absolute;
+  flex-direction: column;
+  background-color: var(--dl-color-theme-neutral-light);
+}
+.enterprise-ip-camera-nav {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.enterprise-ip-camera-top {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  margin-bottom: var(--dl-space-space-threeunits);
+  justify-content: space-between;
+}
+.enterprise-ip-camera-logo {
+  height: 3rem;
+}
+.enterprise-ip-camera-close-menu {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.enterprise-ip-camera-icon3 {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+}
+.enterprise-ip-camera-links2 {
+  gap: var(--dl-space-space-unit);
+  flex: 0 0 auto;
+  display: flex;
+  align-self: flex-start;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.enterprise-ip-camera-link12 {
+  text-decoration: none;
+}
+.enterprise-ip-camera-rectangle7424 {
+  top: 0px;
+  right: -2px;
+  width: 100%;
+  height: 460px;
+  position: absolute;
+}
 .enterprise-ip-camera-footer {
   width: 100%;
   height: auto;
@@ -364,20 +459,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.enterprise-ip-camera-text36 {
-  color: rgba(255, 255, 255, 1);
-  height: auto;
-  font-size: 16px;
-  align-self: stretch;
-  font-style: Medium;
-  text-align: left;
-  font-family: Poppins;
-  font-weight: 500;
-  line-height: 24px;
-  font-stretch: normal;
-  text-decoration: none;
-}
-.enterprise-ip-camera-container3 {
+.enterprise-ip-camera-container2 {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -401,7 +483,7 @@
   flex-direction: column;
   padding-bottom: 24px;
 }
-.enterprise-ip-camera-text38 {
+.enterprise-ip-camera-text36 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 14px;
@@ -429,7 +511,7 @@
   align-items: flex-start;
   flex-direction: column;
 }
-.enterprise-ip-camera-text40 {
+.enterprise-ip-camera-text38 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 16px;
@@ -442,7 +524,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.enterprise-ip-camera-text42 {
+.enterprise-ip-camera-text40 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 14px;
@@ -505,7 +587,7 @@
   height: 13px;
   position: absolute;
 }
-.enterprise-ip-camera-text43 {
+.enterprise-ip-camera-text41 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 14px;
@@ -529,7 +611,7 @@
   align-items: flex-start;
   flex-direction: column;
 }
-.enterprise-ip-camera-text45 {
+.enterprise-ip-camera-text43 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 16px;
@@ -542,7 +624,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.enterprise-ip-camera-text47 {
+.enterprise-ip-camera-text45 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 14px;
@@ -605,7 +687,7 @@
   height: 13px;
   position: absolute;
 }
-.enterprise-ip-camera-text49 {
+.enterprise-ip-camera-text47 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 14px;
@@ -633,7 +715,7 @@
   flex-shrink: 0;
   flex-direction: column;
 }
-.enterprise-ip-camera-text51 {
+.enterprise-ip-camera-text49 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 14px;
@@ -652,31 +734,12 @@
   align-items: flex-start;
   flex-direction: column;
 }
-.enterprise-ip-camera-text53 {
+.enterprise-ip-camera-text51 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   align-self: stretch;
   text-align: left;
   line-height: normal;
-}
-.enterprise-ip-camera-button {
-  gap: 8px;
-  display: flex;
-  padding: 10px 24px;
-  align-items: flex-end;
-  background-color: var(--dl-color-neutral-900main);
-}
-.enterprise-ip-camera-text55 {
-  color: var(--dl-color-white-white);
-  height: auto;
-  font-size: 16px;
-  font-style: Medium;
-  text-align: center;
-  font-family: Poppins;
-  font-weight: 500;
-  line-height: 24px;
-  font-stretch: normal;
-  text-decoration: none;
 }
 .enterprise-ip-camera-frame1062 {
   gap: 10px;
@@ -704,7 +767,7 @@
   flex-shrink: 0;
   justify-content: space-between;
 }
-.enterprise-ip-camera-text57 {
+.enterprise-ip-camera-text53 {
   color: var(--dl-color-white-white);
   height: auto;
   font-size: 14px;
@@ -732,111 +795,6 @@
 .enterprise-ip-camera-instagram {
   width: 20px;
   height: 20px;
-}
-.enterprise-ip-camera-rectangle7424 {
-  top: 0px;
-  right: -2px;
-  width: 100%;
-  height: 460px;
-  position: absolute;
-}
-.enterprise-ip-camera-navbar {
-  width: 100%;
-  height: 88px;
-  display: flex;
-  z-index: 100;
-  position: fixed;
-  box-shadow: 0px 6px 20px 0px rgba(0, 0, 0, 0.1);
-  justify-content: center;
-  background-color: white;
-}
-.enterprise-ip-camera-navbar-interactive {
-  width: 100%;
-  display: flex;
-  max-width: var(--dl-size-size-maxwidth);
-  align-items: center;
-  padding-top: var(--dl-space-space-twounits);
-  padding-left: var(--dl-space-space-threeunits);
-  padding-right: var(--dl-space-space-threeunits);
-  padding-bottom: var(--dl-space-space-twounits);
-  justify-content: space-between;
-}
-.enterprise-ip-camera-image1 {
-  height: 3rem;
-}
-.enterprise-ip-camera-desktop-menu {
-  flex: 1;
-  display: flex;
-  justify-content: space-between;
-}
-.enterprise-ip-camera-links1 {
-  gap: var(--dl-space-space-twounits);
-  flex: 1;
-  display: flex;
-  align-items: center;
-  margin-left: var(--dl-space-space-twounits);
-  flex-direction: row;
-  justify-content: flex-start;
-}
-.enterprise-ip-camera-link11 {
-  text-decoration: none;
-}
-.enterprise-ip-camera-burger-menu {
-  display: none;
-}
-.enterprise-ip-camera-icon1 {
-  width: var(--dl-size-size-xsmall);
-  height: var(--dl-size-size-xsmall);
-}
-.enterprise-ip-camera-mobile-menu {
-  top: 0px;
-  left: 0px;
-  width: 100%;
-  height: 100vh;
-  display: none;
-  padding: var(--dl-space-space-twounits);
-  z-index: 100;
-  position: absolute;
-  flex-direction: column;
-  background-color: var(--dl-color-theme-neutral-light);
-}
-.enterprise-ip-camera-nav {
-  display: flex;
-  align-items: flex-start;
-  flex-direction: column;
-}
-.enterprise-ip-camera-top {
-  width: 100%;
-  display: flex;
-  align-items: center;
-  margin-bottom: var(--dl-space-space-threeunits);
-  justify-content: space-between;
-}
-.enterprise-ip-camera-logo {
-  height: 3rem;
-}
-.enterprise-ip-camera-close-menu {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.enterprise-ip-camera-icon3 {
-  width: var(--dl-size-size-xsmall);
-  height: var(--dl-size-size-xsmall);
-}
-.enterprise-ip-camera-links2 {
-  gap: var(--dl-space-space-unit);
-  flex: 0 0 auto;
-  display: flex;
-  align-self: flex-start;
-  align-items: flex-start;
-  flex-direction: column;
-}
-.enterprise-ip-camera-buttons {
-  gap: var(--dl-space-space-twounits);
-  display: flex;
-  margin-top: var(--dl-space-space-twounits);
-  align-items: center;
 }
 @media(max-width: 1274px) {
   .enterprise-ip-camera-frame19272 {
@@ -892,7 +850,7 @@
   .enterprise-ip-camera-frame1142 {
     width: 100%;
   }
-  .enterprise-ip-camera-text53 {
+  .enterprise-ip-camera-text51 {
     width: 100%;
     font-size: 24px;
   }
@@ -929,9 +887,21 @@
   .enterprise-ip-camera-frame63 {
     gap: 16px;
   }
+  .enterprise-ip-camera-desktop-menu {
+    display: none;
+  }
+  .enterprise-ip-camera-burger-menu {
+    display: flex;
+  }
+  .enterprise-ip-camera-frame105 {
+    width: 100%;
+  }
+  .enterprise-ip-camera-frame1041 {
+    width: 100%;
+  }
   .enterprise-ip-camera-frame1061 {
     gap: 16px;
-    width: 545px;
+    width: 390PX;
     flex-direction: column;
   }
   .enterprise-ip-camera-frame111 {
@@ -939,7 +909,7 @@
     align-self: center;
     margin-right: 0px;
   }
-  .enterprise-ip-camera-text42 {
+  .enterprise-ip-camera-text40 {
     color: rgb(255, 255, 255);
     font-size: 14px;
     font-family: Poppins;
@@ -956,27 +926,23 @@
     height: 97px;
   }
   .enterprise-ip-camera-frame1042 {
-    width: 390px;
+    width: 100%;
     align-self: center;
   }
   .enterprise-ip-camera-frame108 {
     gap: 24px;
     height: 100%;
+    padding-left: 16px;
+    padding-right: 16px;
     justify-content: center;
   }
-  .enterprise-ip-camera-text57 {
+  .enterprise-ip-camera-text53 {
     color: var(--dl-color-white-white);
     font-size: 14px;
     font-family: Poppins;
     font-weight: 400;
     line-height: 21px;
     text-decoration: none;
-  }
-  .enterprise-ip-camera-desktop-menu {
-    display: none;
-  }
-  .enterprise-ip-camera-burger-menu {
-    display: flex;
   }
 }
 @media(max-width: 767px) {

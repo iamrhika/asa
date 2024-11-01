@@ -12,6 +12,75 @@ const PrepaidPaymentSystem = (props) => {
         <title>Prepaid-Payment-System - PT ASA</title>
         <meta property="og:title" content="Prepaid-Payment-System - PT ASA" />
       </Helmet>
+      <nav className="prepaid-payment-system-navbar">
+        <header
+          data-thq="thq-navbar"
+          className="prepaid-payment-system-navbar-interactive"
+        >
+          <img
+            alt="Smart Card Innovations"
+            src="/external/primary_logo_asa_plain%201-1500h.png"
+            className="prepaid-payment-system-image1"
+          />
+          <div
+            data-thq="thq-navbar-nav"
+            className="prepaid-payment-system-desktop-menu"
+          >
+            <nav className="prepaid-payment-system-links1">
+              <Link
+                to="/"
+                className="prepaid-payment-system-link11 thq-link thq-body-small"
+              >
+                Home
+              </Link>
+            </nav>
+          </div>
+          <div
+            data-thq="thq-burger-menu"
+            className="prepaid-payment-system-burger-menu"
+          >
+            <svg
+              viewBox="0 0 1024 1024"
+              className="prepaid-payment-system-icon1"
+            >
+              <path d="M128 554.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667zM128 298.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667zM128 810.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667z"></path>
+            </svg>
+          </div>
+          <div
+            data-thq="thq-mobile-menu"
+            className="prepaid-payment-system-mobile-menu"
+          >
+            <div className="prepaid-payment-system-nav">
+              <div className="prepaid-payment-system-top">
+                <img
+                  alt="Smart Card Innovations"
+                  src="/primary_logo_asa_plain%201%20logo-1500h.png"
+                  className="prepaid-payment-system-logo"
+                />
+                <div
+                  data-thq="thq-close-menu"
+                  className="prepaid-payment-system-close-menu"
+                >
+                  <svg
+                    viewBox="0 0 1024 1024"
+                    className="prepaid-payment-system-icon3"
+                  >
+                    <path d="M810 274l-238 238 238 238-60 60-238-238-238 238-60-60 238-238-238-238 60-60 238 238 238-238z"></path>
+                  </svg>
+                </div>
+              </div>
+              <nav className="prepaid-payment-system-links2">
+                <Link
+                  to="/"
+                  className="prepaid-payment-system-link12 thq-link thq-body-small"
+                >
+                  Home
+                </Link>
+              </nav>
+            </div>
+          </div>
+        </header>
+      </nav>
       <div className="prepaid-payment-system-main-content">
         <div className="prepaid-payment-system-frame19272">
           <div className="prepaid-payment-system-frame19268">
@@ -236,6 +305,11 @@ const PrepaidPaymentSystem = (props) => {
           </div>
         </div>
       </div>
+      <img
+        alt="Rectangle74241231"
+        src="/external/rectangle74241231-at1-500h.png"
+        className="prepaid-payment-system-rectangle7424"
+      />
       <div className="prepaid-payment-system-footer">
         <div className="prepaid-payment-system-frame105">
           <div className="prepaid-payment-system-frame1041">
@@ -247,19 +321,16 @@ const PrepaidPaymentSystem = (props) => {
                   className="prepaid-payment-system-primarylogoasaplainbackground2"
                 />
                 <div className="prepaid-payment-system-frame109">
-                  <span className="prepaid-payment-system-text38">
+                  <Link to="/" className="prepaid-payment-system-text38">
                     <span>Home</span>
-                  </span>
+                  </Link>
                   <span className="prepaid-payment-system-text40">
-                    <span>About</span>
-                  </span>
-                  <span className="prepaid-payment-system-text42">
                     <span>Works</span>
                   </span>
-                  <span className="prepaid-payment-system-text44">
+                  <span className="prepaid-payment-system-text42">
                     <span>Production</span>
                   </span>
-                  <span className="prepaid-payment-system-text46">
+                  <span className="prepaid-payment-system-text44">
                     <span>Solution</span>
                   </span>
                 </div>
@@ -271,15 +342,15 @@ const PrepaidPaymentSystem = (props) => {
                   className="prepaid-payment-system-rectangle11"
                 />
                 <div className="prepaid-payment-system-frame110">
-                  <span className="prepaid-payment-system-text48">
+                  <span className="prepaid-payment-system-text46">
                     <span>Contact</span>
                   </span>
                   <div className="prepaid-payment-system-frame116">
                     <div className="prepaid-payment-system-frame1141">
-                      <span className="prepaid-payment-system-text50">
+                      <span className="prepaid-payment-system-text48">
                         <span>Head Office</span>
                       </span>
-                      <span className="prepaid-payment-system-text52">
+                      <span className="prepaid-payment-system-text50">
                         {' '}
                         Revenue Tower Lt. 26 Jl Jenderal Sudirman kav. 52-53
                         Jakarta Selatan 12190
@@ -298,7 +369,7 @@ const PrepaidPaymentSystem = (props) => {
                             </div>
                           </div>
                         </div>
-                        <span className="prepaid-payment-system-text53">
+                        <span className="prepaid-payment-system-text51">
                           <span>+62 2139728288</span>
                         </span>
                       </div>
@@ -309,10 +380,10 @@ const PrepaidPaymentSystem = (props) => {
                       className="prepaid-payment-system-rectangle13"
                     />
                     <div className="prepaid-payment-system-frame115">
-                      <span className="prepaid-payment-system-text55">
+                      <span className="prepaid-payment-system-text53">
                         <span>Factory</span>
                       </span>
-                      <span className="prepaid-payment-system-text57">
+                      <span className="prepaid-payment-system-text55">
                         <span>
                           Jalan Albasia Raya, Blok K 03 No 09, Delta Silicon 8,
                           Lippo Cikarang, Kab. Bekasi, Jawa Barat 17530
@@ -332,7 +403,7 @@ const PrepaidPaymentSystem = (props) => {
                             </div>
                           </div>
                         </div>
-                        <span className="prepaid-payment-system-text59">
+                        <span className="prepaid-payment-system-text57">
                           <span>+62 82121217541</span>
                         </span>
                       </div>
@@ -346,18 +417,13 @@ const PrepaidPaymentSystem = (props) => {
                 />
               </div>
               <div className="prepaid-payment-system-frame113">
-                <span className="prepaid-payment-system-text61">
+                <span className="prepaid-payment-system-text59">
                   <span>Get Started</span>
                 </span>
                 <div className="prepaid-payment-system-frame1142">
-                  <span className="prepaid-payment-system-text63 HeadingH2Semibold">
+                  <span className="prepaid-payment-system-text61 HeadingH2Semibold">
                     <span>Get The Future You Want With ASA.</span>
                   </span>
-                  <button className="prepaid-payment-system-button">
-                    <span className="prepaid-payment-system-text65">
-                      <span>Contact Us</span>
-                    </span>
-                  </button>
                 </div>
               </div>
             </div>
@@ -366,7 +432,7 @@ const PrepaidPaymentSystem = (props) => {
         <div className="prepaid-payment-system-frame1062">
           <div className="prepaid-payment-system-frame1042">
             <div className="prepaid-payment-system-frame108">
-              <span className="prepaid-payment-system-text67">
+              <span className="prepaid-payment-system-text63">
                 Copyright ©2024 All Rights Reserved | PT Askara Satya Abadi
               </span>
               <div className="prepaid-payment-system-frame107">
@@ -390,108 +456,6 @@ const PrepaidPaymentSystem = (props) => {
           </div>
         </div>
       </div>
-      <img
-        alt="Rectangle74241231"
-        src="/external/rectangle74241231-at1-500h.png"
-        className="prepaid-payment-system-rectangle7424"
-      />
-      <nav className="prepaid-payment-system-navbar">
-        <header
-          data-thq="thq-navbar"
-          className="prepaid-payment-system-navbar-interactive"
-        >
-          <img
-            alt="Smart Card Innovations"
-            src="/external/primary_logo_asa_plain%201-1500h.png"
-            className="prepaid-payment-system-image1"
-          />
-          <div
-            data-thq="thq-navbar-nav"
-            className="prepaid-payment-system-desktop-menu"
-          >
-            <nav className="prepaid-payment-system-links1">
-              <Link
-                to="/"
-                className="prepaid-payment-system-link11 thq-link thq-body-small"
-              >
-                Home
-              </Link>
-            </nav>
-          </div>
-          <div
-            data-thq="thq-burger-menu"
-            className="prepaid-payment-system-burger-menu"
-          >
-            <svg
-              viewBox="0 0 1024 1024"
-              className="prepaid-payment-system-icon1"
-            >
-              <path d="M128 554.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667zM128 298.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667zM128 810.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667z"></path>
-            </svg>
-          </div>
-          <div
-            data-thq="thq-mobile-menu"
-            className="prepaid-payment-system-mobile-menu"
-          >
-            <div className="prepaid-payment-system-nav">
-              <div className="prepaid-payment-system-top">
-                <img
-                  alt="Smart Card Innovations"
-                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/84ec08e8-34e9-42c7-9445-d2806d156403/fac575ac-7a41-484f-b7ac-875042de11f8?org_if_sml=1&amp;force_format=original"
-                  className="prepaid-payment-system-logo"
-                />
-                <div
-                  data-thq="thq-close-menu"
-                  className="prepaid-payment-system-close-menu"
-                >
-                  <svg
-                    viewBox="0 0 1024 1024"
-                    className="prepaid-payment-system-icon3"
-                  >
-                    <path d="M810 274l-238 238 238 238-60 60-238-238-238 238-60-60 238-238-238-238 60-60 238 238 238-238z"></path>
-                  </svg>
-                </div>
-              </div>
-              <nav className="prepaid-payment-system-links2">
-                <a
-                  href="https://www.teleporthq.io"
-                  className="thq-link thq-body-small"
-                >
-                  Home
-                </a>
-                <a
-                  href="https://www.teleporthq.io"
-                  className="thq-link thq-body-small"
-                >
-                  Services
-                </a>
-                <a
-                  href="https://www.teleporthq.io"
-                  className="thq-link thq-body-small"
-                >
-                  Technology
-                </a>
-                <a
-                  href="https://www.teleporthq.io"
-                  className="thq-link thq-body-small"
-                >
-                  Case Studies
-                </a>
-                <a
-                  href="https://www.teleporthq.io"
-                  className="thq-link thq-body-small"
-                >
-                  Contact
-                </a>
-              </nav>
-            </div>
-            <div className="prepaid-payment-system-buttons">
-              <button>Login</button>
-              <button>Register</button>
-            </div>
-          </div>
-        </header>
-      </nav>
     </div>
   )
 }

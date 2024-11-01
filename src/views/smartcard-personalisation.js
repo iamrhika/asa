@@ -15,6 +15,75 @@ const SmartcardPersonalisation = (props) => {
           content="Smartcard-Personalisation - PT ASA"
         />
       </Helmet>
+      <nav className="smartcard-personalisation-navbar">
+        <header
+          data-thq="thq-navbar"
+          className="smartcard-personalisation-navbar-interactive"
+        >
+          <img
+            alt="Smart Card Innovations"
+            src="/external/primary_logo_asa_plain%201-1500h.png"
+            className="smartcard-personalisation-image1"
+          />
+          <div
+            data-thq="thq-navbar-nav"
+            className="smartcard-personalisation-desktop-menu"
+          >
+            <nav className="smartcard-personalisation-links1">
+              <Link
+                to="/"
+                className="smartcard-personalisation-link11 thq-link thq-body-small"
+              >
+                Home
+              </Link>
+            </nav>
+          </div>
+          <div
+            data-thq="thq-burger-menu"
+            className="smartcard-personalisation-burger-menu"
+          >
+            <svg
+              viewBox="0 0 1024 1024"
+              className="smartcard-personalisation-icon1"
+            >
+              <path d="M128 554.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667zM128 298.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667zM128 810.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667z"></path>
+            </svg>
+          </div>
+          <div
+            data-thq="thq-mobile-menu"
+            className="smartcard-personalisation-mobile-menu"
+          >
+            <div className="smartcard-personalisation-nav">
+              <div className="smartcard-personalisation-top">
+                <img
+                  alt="Smart Card Innovations"
+                  src="/primary_logo_asa_plain%201%20logo-1500h.png"
+                  className="smartcard-personalisation-logo"
+                />
+                <div
+                  data-thq="thq-close-menu"
+                  className="smartcard-personalisation-close-menu"
+                >
+                  <svg
+                    viewBox="0 0 1024 1024"
+                    className="smartcard-personalisation-icon3"
+                  >
+                    <path d="M810 274l-238 238 238 238-60 60-238-238-238 238-60-60 238-238-238-238 60-60 238 238 238-238z"></path>
+                  </svg>
+                </div>
+              </div>
+              <nav className="smartcard-personalisation-links2">
+                <Link
+                  to="/"
+                  className="smartcard-personalisation-link12 thq-link thq-body-small"
+                >
+                  Home
+                </Link>
+              </nav>
+            </div>
+          </div>
+        </header>
+      </nav>
       <div className="smartcard-personalisation-main-content">
         <div className="smartcard-personalisation-frame19272">
           <div className="smartcard-personalisation-frame19268">
@@ -283,6 +352,11 @@ const SmartcardPersonalisation = (props) => {
           </div>
         </div>
       </div>
+      <img
+        alt="Rectangle74241231"
+        src="/external/rectangle74241231-at1-500h.png"
+        className="smartcard-personalisation-rectangle7424"
+      />
       <div className="smartcard-personalisation-footer">
         <div className="smartcard-personalisation-frame105">
           <div className="smartcard-personalisation-frame1041">
@@ -294,19 +368,16 @@ const SmartcardPersonalisation = (props) => {
                   className="smartcard-personalisation-primarylogoasaplainbackground2"
                 />
                 <div className="smartcard-personalisation-frame109">
-                  <span className="smartcard-personalisation-text40">
+                  <Link to="/" className="smartcard-personalisation-text40">
                     <span>Home</span>
-                  </span>
+                  </Link>
                   <span className="smartcard-personalisation-text42">
-                    <span>About</span>
-                  </span>
-                  <span className="smartcard-personalisation-text44">
                     <span>Works</span>
                   </span>
-                  <span className="smartcard-personalisation-text46">
+                  <span className="smartcard-personalisation-text44">
                     <span>Production</span>
                   </span>
-                  <span className="smartcard-personalisation-text48">
+                  <span className="smartcard-personalisation-text46">
                     <span>Solution</span>
                   </span>
                 </div>
@@ -318,15 +389,15 @@ const SmartcardPersonalisation = (props) => {
                   className="smartcard-personalisation-rectangle11"
                 />
                 <div className="smartcard-personalisation-frame110">
-                  <span className="smartcard-personalisation-text50">
+                  <span className="smartcard-personalisation-text48">
                     <span>Contact</span>
                   </span>
                   <div className="smartcard-personalisation-frame116">
                     <div className="smartcard-personalisation-frame1141">
-                      <span className="smartcard-personalisation-text52">
+                      <span className="smartcard-personalisation-text50">
                         <span>Head Office</span>
                       </span>
-                      <span className="smartcard-personalisation-text54">
+                      <span className="smartcard-personalisation-text52">
                         {' '}
                         Revenue Tower Lt. 26 Jl Jenderal Sudirman kav. 52-53
                         Jakarta Selatan 12190
@@ -345,7 +416,7 @@ const SmartcardPersonalisation = (props) => {
                             </div>
                           </div>
                         </div>
-                        <span className="smartcard-personalisation-text55">
+                        <span className="smartcard-personalisation-text53">
                           <span>+62 2139728288</span>
                         </span>
                       </div>
@@ -356,10 +427,10 @@ const SmartcardPersonalisation = (props) => {
                       className="smartcard-personalisation-rectangle13"
                     />
                     <div className="smartcard-personalisation-frame115">
-                      <span className="smartcard-personalisation-text57">
+                      <span className="smartcard-personalisation-text55">
                         <span>Factory</span>
                       </span>
-                      <span className="smartcard-personalisation-text59">
+                      <span className="smartcard-personalisation-text57">
                         <span>
                           Jalan Albasia Raya, Blok K 03 No 09, Delta Silicon 8,
                           Lippo Cikarang, Kab. Bekasi, Jawa Barat 17530
@@ -379,7 +450,7 @@ const SmartcardPersonalisation = (props) => {
                             </div>
                           </div>
                         </div>
-                        <span className="smartcard-personalisation-text61">
+                        <span className="smartcard-personalisation-text59">
                           <span>+62 82121217541</span>
                         </span>
                       </div>
@@ -393,18 +464,13 @@ const SmartcardPersonalisation = (props) => {
                 />
               </div>
               <div className="smartcard-personalisation-frame113">
-                <span className="smartcard-personalisation-text63">
+                <span className="smartcard-personalisation-text61">
                   <span>Get Started</span>
                 </span>
                 <div className="smartcard-personalisation-frame1142">
-                  <span className="smartcard-personalisation-text65 HeadingH2Semibold">
+                  <span className="smartcard-personalisation-text63 HeadingH2Semibold">
                     <span>Get The Future You Want With ASA.</span>
                   </span>
-                  <button className="smartcard-personalisation-button">
-                    <span className="smartcard-personalisation-text67">
-                      <span>Contact Us</span>
-                    </span>
-                  </button>
                 </div>
               </div>
             </div>
@@ -413,7 +479,7 @@ const SmartcardPersonalisation = (props) => {
         <div className="smartcard-personalisation-frame1062">
           <div className="smartcard-personalisation-frame1042">
             <div className="smartcard-personalisation-frame108">
-              <span className="smartcard-personalisation-text69">
+              <span className="smartcard-personalisation-text65">
                 Copyright ©2024 All Rights Reserved | PT Askara Satya Abadi
               </span>
               <div className="smartcard-personalisation-frame107">
@@ -437,108 +503,6 @@ const SmartcardPersonalisation = (props) => {
           </div>
         </div>
       </div>
-      <img
-        alt="Rectangle74241231"
-        src="/external/rectangle74241231-at1-500h.png"
-        className="smartcard-personalisation-rectangle7424"
-      />
-      <nav className="smartcard-personalisation-navbar">
-        <header
-          data-thq="thq-navbar"
-          className="smartcard-personalisation-navbar-interactive"
-        >
-          <img
-            alt="Smart Card Innovations"
-            src="/external/primary_logo_asa_plain%201-1500h.png"
-            className="smartcard-personalisation-image1"
-          />
-          <div
-            data-thq="thq-navbar-nav"
-            className="smartcard-personalisation-desktop-menu"
-          >
-            <nav className="smartcard-personalisation-links1">
-              <Link
-                to="/"
-                className="smartcard-personalisation-link11 thq-link thq-body-small"
-              >
-                Home
-              </Link>
-            </nav>
-          </div>
-          <div
-            data-thq="thq-burger-menu"
-            className="smartcard-personalisation-burger-menu"
-          >
-            <svg
-              viewBox="0 0 1024 1024"
-              className="smartcard-personalisation-icon1"
-            >
-              <path d="M128 554.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667zM128 298.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667zM128 810.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667z"></path>
-            </svg>
-          </div>
-          <div
-            data-thq="thq-mobile-menu"
-            className="smartcard-personalisation-mobile-menu"
-          >
-            <div className="smartcard-personalisation-nav">
-              <div className="smartcard-personalisation-top">
-                <img
-                  alt="Smart Card Innovations"
-                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/84ec08e8-34e9-42c7-9445-d2806d156403/fac575ac-7a41-484f-b7ac-875042de11f8?org_if_sml=1&amp;force_format=original"
-                  className="smartcard-personalisation-logo"
-                />
-                <div
-                  data-thq="thq-close-menu"
-                  className="smartcard-personalisation-close-menu"
-                >
-                  <svg
-                    viewBox="0 0 1024 1024"
-                    className="smartcard-personalisation-icon3"
-                  >
-                    <path d="M810 274l-238 238 238 238-60 60-238-238-238 238-60-60 238-238-238-238 60-60 238 238 238-238z"></path>
-                  </svg>
-                </div>
-              </div>
-              <nav className="smartcard-personalisation-links2">
-                <a
-                  href="https://www.teleporthq.io"
-                  className="thq-link thq-body-small"
-                >
-                  Home
-                </a>
-                <a
-                  href="https://www.teleporthq.io"
-                  className="thq-link thq-body-small"
-                >
-                  Services
-                </a>
-                <a
-                  href="https://www.teleporthq.io"
-                  className="thq-link thq-body-small"
-                >
-                  Technology
-                </a>
-                <a
-                  href="https://www.teleporthq.io"
-                  className="thq-link thq-body-small"
-                >
-                  Case Studies
-                </a>
-                <a
-                  href="https://www.teleporthq.io"
-                  className="thq-link thq-body-small"
-                >
-                  Contact
-                </a>
-              </nav>
-            </div>
-            <div className="smartcard-personalisation-buttons">
-              <button>Login</button>
-              <button>Register</button>
-            </div>
-          </div>
-        </header>
-      </nav>
     </div>
   )
 }

@@ -12,6 +12,72 @@ const ClosedLoopPayment = (props) => {
         <title>Closed-Loop-Payment - PT ASA</title>
         <meta property="og:title" content="Closed-Loop-Payment - PT ASA" />
       </Helmet>
+      <nav className="closed-loop-payment-navbar">
+        <header
+          data-thq="thq-navbar"
+          className="closed-loop-payment-navbar-interactive"
+        >
+          <img
+            alt="Smart Card Innovations"
+            src="/external/primary_logo_asa_plain%201-1500h.png"
+            className="closed-loop-payment-image1"
+          />
+          <div
+            data-thq="thq-navbar-nav"
+            className="closed-loop-payment-desktop-menu"
+          >
+            <nav className="closed-loop-payment-links1">
+              <Link
+                to="/"
+                className="closed-loop-payment-link11 thq-link thq-body-small"
+              >
+                Home
+              </Link>
+            </nav>
+          </div>
+          <div
+            data-thq="thq-burger-menu"
+            className="closed-loop-payment-burger-menu"
+          >
+            <svg viewBox="0 0 1024 1024" className="closed-loop-payment-icon1">
+              <path d="M128 554.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667zM128 298.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667zM128 810.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667z"></path>
+            </svg>
+          </div>
+          <div
+            data-thq="thq-mobile-menu"
+            className="closed-loop-payment-mobile-menu"
+          >
+            <div className="closed-loop-payment-nav">
+              <div className="closed-loop-payment-top">
+                <img
+                  alt="Smart Card Innovations"
+                  src="/primary_logo_asa_plain%201%20logo-1500h.png"
+                  className="closed-loop-payment-logo"
+                />
+                <div
+                  data-thq="thq-close-menu"
+                  className="closed-loop-payment-close-menu"
+                >
+                  <svg
+                    viewBox="0 0 1024 1024"
+                    className="closed-loop-payment-icon3"
+                  >
+                    <path d="M810 274l-238 238 238 238-60 60-238-238-238 238-60-60 238-238-238-238 60-60 238 238 238-238z"></path>
+                  </svg>
+                </div>
+              </div>
+              <nav className="closed-loop-payment-links2">
+                <Link
+                  to="/"
+                  className="closed-loop-payment-link12 thq-link thq-body-small"
+                >
+                  Home
+                </Link>
+              </nav>
+            </div>
+          </div>
+        </header>
+      </nav>
       <div className="closed-loop-payment-main-content">
         <div className="closed-loop-payment-frame19268">
           <div className="closed-loop-payment-frame19307">
@@ -261,6 +327,11 @@ const ClosedLoopPayment = (props) => {
           </div>
         </div>
       </div>
+      <img
+        alt="Rectangle74241231"
+        src="/external/rectangle74241231-at1-500h.png"
+        className="closed-loop-payment-rectangle7424"
+      />
       <div className="closed-loop-payment-footer">
         <div className="closed-loop-payment-frame105">
           <div className="closed-loop-payment-frame1041">
@@ -272,19 +343,16 @@ const ClosedLoopPayment = (props) => {
                   className="closed-loop-payment-primarylogoasaplainbackground2"
                 />
                 <div className="closed-loop-payment-frame109">
-                  <span className="closed-loop-payment-text37">
+                  <Link to="/" className="closed-loop-payment-text37">
                     <span>Home</span>
-                  </span>
+                  </Link>
                   <span className="closed-loop-payment-text39">
-                    <span>About</span>
-                  </span>
-                  <span className="closed-loop-payment-text41">
                     <span>Works</span>
                   </span>
-                  <span className="closed-loop-payment-text43">
+                  <span className="closed-loop-payment-text41">
                     <span>Production</span>
                   </span>
-                  <span className="closed-loop-payment-text45">
+                  <span className="closed-loop-payment-text43">
                     <span>Solution</span>
                   </span>
                 </div>
@@ -296,15 +364,15 @@ const ClosedLoopPayment = (props) => {
                   className="closed-loop-payment-rectangle11"
                 />
                 <div className="closed-loop-payment-frame110">
-                  <span className="closed-loop-payment-text47">
+                  <span className="closed-loop-payment-text45">
                     <span>Contact</span>
                   </span>
                   <div className="closed-loop-payment-frame116">
                     <div className="closed-loop-payment-frame1141">
-                      <span className="closed-loop-payment-text49">
+                      <span className="closed-loop-payment-text47">
                         <span>Head Office</span>
                       </span>
-                      <span className="closed-loop-payment-text51">
+                      <span className="closed-loop-payment-text49">
                         {' '}
                         Revenue Tower Lt. 26 Jl Jenderal Sudirman kav. 52-53
                         Jakarta Selatan 12190
@@ -323,7 +391,7 @@ const ClosedLoopPayment = (props) => {
                             </div>
                           </div>
                         </div>
-                        <span className="closed-loop-payment-text52">
+                        <span className="closed-loop-payment-text50">
                           <span>+62 2139728288</span>
                         </span>
                       </div>
@@ -334,10 +402,10 @@ const ClosedLoopPayment = (props) => {
                       className="closed-loop-payment-rectangle13"
                     />
                     <div className="closed-loop-payment-frame115">
-                      <span className="closed-loop-payment-text54">
+                      <span className="closed-loop-payment-text52">
                         <span>Factory</span>
                       </span>
-                      <span className="closed-loop-payment-text56">
+                      <span className="closed-loop-payment-text54">
                         <span>
                           Jalan Albasia Raya, Blok K 03 No 09, Delta Silicon 8,
                           Lippo Cikarang, Kab. Bekasi, Jawa Barat 17530
@@ -357,7 +425,7 @@ const ClosedLoopPayment = (props) => {
                             </div>
                           </div>
                         </div>
-                        <span className="closed-loop-payment-text58">
+                        <span className="closed-loop-payment-text56">
                           <span>+62 82121217541</span>
                         </span>
                       </div>
@@ -371,18 +439,13 @@ const ClosedLoopPayment = (props) => {
                 />
               </div>
               <div className="closed-loop-payment-frame113">
-                <span className="closed-loop-payment-text60">
+                <span className="closed-loop-payment-text58">
                   <span>Get Started</span>
                 </span>
                 <div className="closed-loop-payment-frame1142">
-                  <span className="closed-loop-payment-text62 HeadingH2Semibold">
+                  <span className="closed-loop-payment-text60 HeadingH2Semibold">
                     <span>Get The Future You Want With ASA.</span>
                   </span>
-                  <button className="closed-loop-payment-button">
-                    <span className="closed-loop-payment-text64">
-                      <span>Contact Us</span>
-                    </span>
-                  </button>
                 </div>
               </div>
             </div>
@@ -391,7 +454,7 @@ const ClosedLoopPayment = (props) => {
         <div className="closed-loop-payment-frame1062">
           <div className="closed-loop-payment-frame1042">
             <div className="closed-loop-payment-frame108">
-              <span className="closed-loop-payment-text66">
+              <span className="closed-loop-payment-text62">
                 Copyright ©2024 All Rights Reserved | PT Askara Satya Abadi
               </span>
               <div className="closed-loop-payment-frame107">
@@ -415,105 +478,6 @@ const ClosedLoopPayment = (props) => {
           </div>
         </div>
       </div>
-      <img
-        alt="Rectangle74241231"
-        src="/external/rectangle74241231-at1-500h.png"
-        className="closed-loop-payment-rectangle7424"
-      />
-      <nav className="closed-loop-payment-navbar">
-        <header
-          data-thq="thq-navbar"
-          className="closed-loop-payment-navbar-interactive"
-        >
-          <img
-            alt="Smart Card Innovations"
-            src="/external/primary_logo_asa_plain%201-1500h.png"
-            className="closed-loop-payment-image1"
-          />
-          <div
-            data-thq="thq-navbar-nav"
-            className="closed-loop-payment-desktop-menu"
-          >
-            <nav className="closed-loop-payment-links1">
-              <Link
-                to="/"
-                className="closed-loop-payment-link11 thq-link thq-body-small"
-              >
-                Home
-              </Link>
-            </nav>
-          </div>
-          <div
-            data-thq="thq-burger-menu"
-            className="closed-loop-payment-burger-menu"
-          >
-            <svg viewBox="0 0 1024 1024" className="closed-loop-payment-icon1">
-              <path d="M128 554.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667zM128 298.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667zM128 810.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667z"></path>
-            </svg>
-          </div>
-          <div
-            data-thq="thq-mobile-menu"
-            className="closed-loop-payment-mobile-menu"
-          >
-            <div className="closed-loop-payment-nav">
-              <div className="closed-loop-payment-top">
-                <img
-                  alt="Smart Card Innovations"
-                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/84ec08e8-34e9-42c7-9445-d2806d156403/fac575ac-7a41-484f-b7ac-875042de11f8?org_if_sml=1&amp;force_format=original"
-                  className="closed-loop-payment-logo"
-                />
-                <div
-                  data-thq="thq-close-menu"
-                  className="closed-loop-payment-close-menu"
-                >
-                  <svg
-                    viewBox="0 0 1024 1024"
-                    className="closed-loop-payment-icon3"
-                  >
-                    <path d="M810 274l-238 238 238 238-60 60-238-238-238 238-60-60 238-238-238-238 60-60 238 238 238-238z"></path>
-                  </svg>
-                </div>
-              </div>
-              <nav className="closed-loop-payment-links2">
-                <a
-                  href="https://www.teleporthq.io"
-                  className="thq-link thq-body-small"
-                >
-                  Home
-                </a>
-                <a
-                  href="https://www.teleporthq.io"
-                  className="thq-link thq-body-small"
-                >
-                  Services
-                </a>
-                <a
-                  href="https://www.teleporthq.io"
-                  className="thq-link thq-body-small"
-                >
-                  Technology
-                </a>
-                <a
-                  href="https://www.teleporthq.io"
-                  className="thq-link thq-body-small"
-                >
-                  Case Studies
-                </a>
-                <a
-                  href="https://www.teleporthq.io"
-                  className="thq-link thq-body-small"
-                >
-                  Contact
-                </a>
-              </nav>
-            </div>
-            <div className="closed-loop-payment-buttons">
-              <button>Login</button>
-              <button>Register</button>
-            </div>
-          </div>
-        </header>
-      </nav>
     </div>
   )
 }

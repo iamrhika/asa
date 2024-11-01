@@ -12,6 +12,69 @@ const AIDashCamera = (props) => {
         <title>AI-Dash-Camera - PT ASA</title>
         <meta property="og:title" content="AI-Dash-Camera - PT ASA" />
       </Helmet>
+      <nav className="ai-dash-camera-navbar">
+        <header
+          data-thq="thq-navbar"
+          className="ai-dash-camera-navbar-interactive"
+        >
+          <img
+            alt="Smart Card Innovations"
+            src="/external/primary_logo_asa_plain%201-1500h.png"
+            className="ai-dash-camera-image1"
+          />
+          <div
+            data-thq="thq-navbar-nav"
+            className="ai-dash-camera-desktop-menu"
+          >
+            <nav className="ai-dash-camera-links1">
+              <Link
+                to="/"
+                className="ai-dash-camera-link11 thq-link thq-body-small"
+              >
+                Home
+              </Link>
+            </nav>
+          </div>
+          <div
+            data-thq="thq-burger-menu"
+            className="ai-dash-camera-burger-menu"
+          >
+            <svg viewBox="0 0 1024 1024" className="ai-dash-camera-icon1">
+              <path d="M128 554.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667zM128 298.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667zM128 810.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667z"></path>
+            </svg>
+          </div>
+          <div
+            data-thq="thq-mobile-menu"
+            className="ai-dash-camera-mobile-menu"
+          >
+            <div className="ai-dash-camera-nav">
+              <div className="ai-dash-camera-top">
+                <img
+                  alt="Smart Card Innovations"
+                  src="/primary_logo_asa_plain%201%20logo-1500h.png"
+                  className="ai-dash-camera-logo"
+                />
+                <div
+                  data-thq="thq-close-menu"
+                  className="ai-dash-camera-close-menu"
+                >
+                  <svg viewBox="0 0 1024 1024" className="ai-dash-camera-icon3">
+                    <path d="M810 274l-238 238 238 238-60 60-238-238-238 238-60-60 238-238-238-238 60-60 238 238 238-238z"></path>
+                  </svg>
+                </div>
+              </div>
+              <nav className="ai-dash-camera-links2">
+                <Link
+                  to="/"
+                  className="ai-dash-camera-link12 thq-link thq-body-small"
+                >
+                  Home
+                </Link>
+              </nav>
+            </div>
+          </div>
+        </header>
+      </nav>
       <div className="ai-dash-camera-main-content">
         <div className="ai-dash-camera-frame19272">
           <div className="ai-dash-camera-frame19268">
@@ -547,6 +610,11 @@ const AIDashCamera = (props) => {
           </div>
         </div>
       </div>
+      <img
+        alt="Rectangle74241231"
+        src="/external/rectangle74241231-at1-500h.png"
+        className="ai-dash-camera-rectangle7424"
+      />
       <div className="ai-dash-camera-footer">
         <div className="ai-dash-camera-frame105">
           <div className="ai-dash-camera-frame1041">
@@ -558,19 +626,16 @@ const AIDashCamera = (props) => {
                   className="ai-dash-camera-primarylogoasaplainbackground2"
                 />
                 <div className="ai-dash-camera-frame109">
-                  <span className="ai-dash-camera-text54">
+                  <Link to="/" className="ai-dash-camera-text54">
                     <span>Home</span>
-                  </span>
+                  </Link>
                   <span className="ai-dash-camera-text56">
-                    <span>About</span>
-                  </span>
-                  <span className="ai-dash-camera-text58">
                     <span>Works</span>
                   </span>
-                  <span className="ai-dash-camera-text60">
+                  <span className="ai-dash-camera-text58">
                     <span>Production</span>
                   </span>
-                  <span className="ai-dash-camera-text62">
+                  <span className="ai-dash-camera-text60">
                     <span>Solution</span>
                   </span>
                 </div>
@@ -582,15 +647,15 @@ const AIDashCamera = (props) => {
                   className="ai-dash-camera-rectangle11"
                 />
                 <div className="ai-dash-camera-frame110">
-                  <span className="ai-dash-camera-text64">
+                  <span className="ai-dash-camera-text62">
                     <span>Contact</span>
                   </span>
                   <div className="ai-dash-camera-frame116">
                     <div className="ai-dash-camera-frame1141">
-                      <span className="ai-dash-camera-text66">
+                      <span className="ai-dash-camera-text64">
                         <span>Head Office</span>
                       </span>
-                      <span className="ai-dash-camera-text68">
+                      <span className="ai-dash-camera-text66">
                         {' '}
                         Revenue Tower Lt. 26 Jl Jenderal Sudirman kav. 52-53
                         Jakarta Selatan 12190
@@ -609,7 +674,7 @@ const AIDashCamera = (props) => {
                             </div>
                           </div>
                         </div>
-                        <span className="ai-dash-camera-text69">
+                        <span className="ai-dash-camera-text67">
                           <span>+62 2139728288</span>
                         </span>
                       </div>
@@ -620,10 +685,10 @@ const AIDashCamera = (props) => {
                       className="ai-dash-camera-rectangle13"
                     />
                     <div className="ai-dash-camera-frame115">
-                      <span className="ai-dash-camera-text71">
+                      <span className="ai-dash-camera-text69">
                         <span>Factory</span>
                       </span>
-                      <span className="ai-dash-camera-text73">
+                      <span className="ai-dash-camera-text71">
                         <span>
                           Jalan Albasia Raya, Blok K 03 No 09, Delta Silicon 8,
                           Lippo Cikarang, Kab. Bekasi, Jawa Barat 17530
@@ -643,7 +708,7 @@ const AIDashCamera = (props) => {
                             </div>
                           </div>
                         </div>
-                        <span className="ai-dash-camera-text75">
+                        <span className="ai-dash-camera-text73">
                           <span>+62 82121217541</span>
                         </span>
                       </div>
@@ -657,18 +722,13 @@ const AIDashCamera = (props) => {
                 />
               </div>
               <div className="ai-dash-camera-frame113">
-                <span className="ai-dash-camera-text77">
+                <span className="ai-dash-camera-text75">
                   <span>Get Started</span>
                 </span>
                 <div className="ai-dash-camera-frame1142">
-                  <span className="ai-dash-camera-text79 HeadingH2Semibold">
+                  <span className="ai-dash-camera-text77 HeadingH2Semibold">
                     <span>Get The Future You Want With ASA.</span>
                   </span>
-                  <button className="ai-dash-camera-button">
-                    <span className="ai-dash-camera-text81">
-                      <span>Contact Us</span>
-                    </span>
-                  </button>
                 </div>
               </div>
             </div>
@@ -677,7 +737,7 @@ const AIDashCamera = (props) => {
         <div className="ai-dash-camera-frame1062">
           <div className="ai-dash-camera-frame1042">
             <div className="ai-dash-camera-frame108">
-              <span className="ai-dash-camera-text83">
+              <span className="ai-dash-camera-text79">
                 Copyright ©2024 All Rights Reserved | PT Askara Satya Abadi
               </span>
               <div className="ai-dash-camera-frame107">
@@ -701,102 +761,6 @@ const AIDashCamera = (props) => {
           </div>
         </div>
       </div>
-      <img
-        alt="Rectangle74241231"
-        src="/external/rectangle74241231-at1-500h.png"
-        className="ai-dash-camera-rectangle7424"
-      />
-      <nav className="ai-dash-camera-navbar">
-        <header
-          data-thq="thq-navbar"
-          className="ai-dash-camera-navbar-interactive"
-        >
-          <img
-            alt="Smart Card Innovations"
-            src="/external/primary_logo_asa_plain%201-1500h.png"
-            className="ai-dash-camera-image1"
-          />
-          <div
-            data-thq="thq-navbar-nav"
-            className="ai-dash-camera-desktop-menu"
-          >
-            <nav className="ai-dash-camera-links1">
-              <Link
-                to="/"
-                className="ai-dash-camera-link11 thq-link thq-body-small"
-              >
-                Home
-              </Link>
-            </nav>
-          </div>
-          <div
-            data-thq="thq-burger-menu"
-            className="ai-dash-camera-burger-menu"
-          >
-            <svg viewBox="0 0 1024 1024" className="ai-dash-camera-icon1">
-              <path d="M128 554.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667zM128 298.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667zM128 810.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667z"></path>
-            </svg>
-          </div>
-          <div
-            data-thq="thq-mobile-menu"
-            className="ai-dash-camera-mobile-menu"
-          >
-            <div className="ai-dash-camera-nav">
-              <div className="ai-dash-camera-top">
-                <img
-                  alt="Smart Card Innovations"
-                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/84ec08e8-34e9-42c7-9445-d2806d156403/fac575ac-7a41-484f-b7ac-875042de11f8?org_if_sml=1&amp;force_format=original"
-                  className="ai-dash-camera-logo"
-                />
-                <div
-                  data-thq="thq-close-menu"
-                  className="ai-dash-camera-close-menu"
-                >
-                  <svg viewBox="0 0 1024 1024" className="ai-dash-camera-icon3">
-                    <path d="M810 274l-238 238 238 238-60 60-238-238-238 238-60-60 238-238-238-238 60-60 238 238 238-238z"></path>
-                  </svg>
-                </div>
-              </div>
-              <nav className="ai-dash-camera-links2">
-                <a
-                  href="https://www.teleporthq.io"
-                  className="thq-link thq-body-small"
-                >
-                  Home
-                </a>
-                <a
-                  href="https://www.teleporthq.io"
-                  className="thq-link thq-body-small"
-                >
-                  Services
-                </a>
-                <a
-                  href="https://www.teleporthq.io"
-                  className="thq-link thq-body-small"
-                >
-                  Technology
-                </a>
-                <a
-                  href="https://www.teleporthq.io"
-                  className="thq-link thq-body-small"
-                >
-                  Case Studies
-                </a>
-                <a
-                  href="https://www.teleporthq.io"
-                  className="thq-link thq-body-small"
-                >
-                  Contact
-                </a>
-              </nav>
-            </div>
-            <div className="ai-dash-camera-buttons">
-              <button>Login</button>
-              <button>Register</button>
-            </div>
-          </div>
-        </header>
-      </nav>
     </div>
   )
 }
