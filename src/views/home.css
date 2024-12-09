@@ -420,7 +420,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.home-desktop25 {
+.home-acknowledgement {
   gap: 10px;
   width: 100%;
   height: auto;
@@ -486,6 +486,23 @@
   line-height: 27px;
   font-stretch: normal;
   text-decoration: none;
+}
+.home-desktop26 {
+  gap: 10px;
+  width: 100%;
+  height: auto;
+  display: flex;
+  padding: 21px 80px;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.home-certificate {
+  width: 1280px;
+  height: 982px;
 }
 .home-statistics {
   gap: 10px;
@@ -3327,6 +3344,9 @@
     width: 769px;
     align-self: center;
   }
+  .home-certificate {
+    width: 100%;
+  }
   .home-frame19245 {
     gap: 24px;
     width: 769px;
@@ -3740,7 +3760,7 @@
   .home-text119 {
     font-size: 14px;
   }
-  .home-desktop25 {
+  .home-acknowledgement {
     padding-left: 16px;
     padding-right: 16px;
   }
@@ -3749,6 +3769,9 @@
   }
   .home-text123 {
     font-size: 40px;
+  }
+  .home-certificate {
+    height: auto;
   }
   .home-statistics {
     padding-top: 24px;

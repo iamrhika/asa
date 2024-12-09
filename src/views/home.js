@@ -243,7 +243,7 @@ const Home = (props) => {
           </div>
         </div>
       </div>
-      <div className="home-desktop25">
+      <div className="home-acknowledgement">
         <div className="home-frame19335">
           <span className="home-text123">
             <span>Acknowledgement</span>
@@ -274,6 +274,13 @@ const Home = (props) => {
             </span>
           </div>
         </div>
+      </div>
+      <div className="home-desktop26">
+        <img
+          alt="Certificate2071"
+          src="/external/certificate2071-epzg-1500w.png"
+          className="home-certificate"
+        />
       </div>
       <div className="home-statistics">
         <div className="home-frame19245">
